@@ -1,0 +1,203 @@
+---
+layout: post
+title:  "Bir"
+date:   2018-11-03 20:59:06 +0530
+categories: paragliding
+---
+Ever since I took up paragliding, I have been attracted by vol-biv adventures. Vol-biv is an approach to the mountains where you hike up with a backpack containing your paraglider and everything needed for surviving for a couple of days, and then you take off and try to fly as far as possible in the direction you want to go. Then you land, you camp, and next day you hike up again to a place where you can take off from, and repeat. You have complete freedom in choosing how adventurous you want to make it: from the "lazy" version easily done in the Alps where you can always land in populated valleys and sleep in hotels, and take taxis/cable-cars up the hill the next day, all the way to the more "wild" fully autonomous version where you try to land as high as possible on the mountain, eat chinese noodles in your tent, sleep wrapped in your paraglider for warmth, and hike up to the top the next day to fly off again.
+If you have the time and want to watch a couple of the greatest vol-biv videos I've seen, I've put a few links at the bottom of this post. 
+
+The Alps are a great playground to learn the basics of vol-biv gradually, and in relative safety and comfort (if you're too tired, or ran out of food, you're never more than 5km away from civilization). But in order to experience the real adventure, you must go to the more remote mountain ranges of the world.
+
+I have read a lot of great things about flying in the Himalayas, and the idea of doing a vol-biv adventure there became very appealing to me. However I also knew that I don't have yet the flying experience nor the local knowledge necessary for this kind of projects. So I have decided that this year I would take advantage of the fact that I have free time between two jobs right on time for the autumn season in the Himalayas, and go discover the best known flying sites: Bir (northern India), and Pokhara (Nepal). The idea was to just fly conservatively, maybe do some small 1 or 2 day vol-bivs, and gather knowledge and experience to be able to come back next year for a more serious vol-biv adventure.
+
+Having just finished my 3 weeks stay in Bir, I can tell my impressions. [Bir](https://en.wikipedia.org/wiki/Bir,_Himachal_Pradesh) is a village in the Himachal Pradesh province in the north of India. I arrived without a plan, and with relatively low expectations; I knew that the flying is along a long ridge that is similar to the Goms valley in Switzerland (but at a bigger scale), that flying along the ridge is not too difficult, that almost every day is flyable, and that there would be many many pilots in the air. So to be honest I was kind of expecting to be tired of it after just a couple of days. How mistaken I was!
+First of all, India did not disappoint: food is as great, people as warm and welcoming, and things as colorful and chaotic as I imagined them!
+
+# Day 0 - Getting there
+I arrived by plane to the Delhi airport, and was pleasantly impressed by it, but I couldn't figure out why I liked it, but having since passed another few hours there, I noticed the signs saying "This is a silent airport". Wow! What a huge improvement not having incessant announcements shouted at you makes!
+
+I had a taxi arranged (inter-city taxis are common in India) to take me to Bir, so getting up to the northern province of Himachal Pradesh was straightforward. Delhi (and much of the first half of the way) was very polluted and with heavy traffic, so I was glad to be on my way north.
+
+![Quick picture snapped on my way out of Delhi]({{ site.url }}/assets/IMG_20181010_094531.jpg)
+<!-- /home/mihai/sync/honor Camera/Camera/IMG_20181010_094531.jpg -->
+
+I was thankfully quite tired, so the crazy driving and the incessant honking didn't prevent me from falling asleep much of the way there. However, for the last 3 hours during the night, on small mountain roads, with cars going in all directions and flashing their lamps, huge potholes, random cows and dogs peacefully sitting or walking in the middle of the road in the worst possible places, I can assure you I was wide awake! And they call paragliding dangerous...
+The hostel I stayed in was quite nice, I initially thought I would just spend a few nights there and look for something better, but in the end I ended up staying there the whole 3 weeks.
+
+As soon as I arrived, I met a brit pilot named Kieron who proposed that we fly together the next day, going up late, just for a small flight to discover the takeoff and the landing.
+
+# Day 1 - Cloud flying
+Well, for a small flight, I was quite impressed: takeoff around 3pm, 1h10 in the air, good thermals (went up to 3400), and some super nice "cloud flying" playing with the small puffy cumulus clouds!
+![Playing with nice clouds]({{ site.url }}/assets/IMG_20181011_155609.jpg)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YAWnuhZgguo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Fej9Wr4gJjA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Tracelog: [xcontest](https://www.xcontest.org/world/en/flights/detail:mihai.m/11.10.2018/09:32)
+/
+[animation](https://ayvri.com/scene/7dj203q05e/cjo1ogpim00013068cixvds4g)
+
+# Day 2 - Golf course top landing, 360 camp
+This time, we went up with Kieron with a bit more appetite for exploration.
+![Flying with Kieron]({{ site.url }}/assets/IMG_20181012_125919.jpg)
+
+1h30 of flying, got up to 3100m, up to 5m/s thermals, and top landed at "Golf course", a flattish place on a ridge 5km from the takeoff.
+Tracelog: [xcontest](https://www.xcontest.org/world/en/flights/detail:mihai.m/12.10.2018/07:02)
+/
+[animation](https://ayvri.com/scene/7dj203q05e/cjo1oxrt2000130685w04jatx)
+
+Kieron ended up abandoning the top landing attempt (it was very lifty all around, so quite tricky). By the time I got in the air again, he was already away, and I did another 2h flight alone (well, you're never alone in Bir with hundreds of pilots in the air) until "360 camp" 15km to the east and back.
+Tracelog: [xcontest](https://www.xcontest.org/world/en/flights/detail:mihai.m/12.10.2018/09:06)
+/
+[animation](https://ayvri.com/scene/7dj203q05e/cjo1p0ej700013068st4iomaj)
+
+# Day 3 - Dharamshala
+Again with Kieron, the plan for the day was to fly to Dharamshala (the Dalai Lama's residence) and back. The day before, I had forgotten my gore-tex overmittens that I sometimes wear on top of my gloves, and my hands were a bit cold. This time, I remembered to bring them. However, even worse, I now forgot the other two layers of gloves! So I had to improvise, following a suggestion from Kieron:
+![Some socks were harmed in this production...]({{ site.url }}/assets/IMG_20181013_113034.jpg)
+We flew together a little bit in the beginning, but then Kieron, better known for his Jenga skills than for his patience, went off on his own.
+I caught up with him just before Dharamshala, and we did the return path together. We didn't see the Dalai Lama.
+
+Tracelog: [xcontest](https://www.xcontest.org/world/en/flights/detail:mihai.m/13.10.2018/06:23)
+/
+[animation](https://ayvri.com/scene/7dj203q05e/cjo1p8vez00013068zjjyxfg9)
+
+# Day 4 - Camp 360 top landing
+This day, we flew to the east, and top landed at Camp 360. I took more pictures this day.
+![]({{ site.url }}/assets/IMG_20181014_105326.jpg)
+![]({{ site.url }}/assets/IMG_20181014_105420.jpg)
+![]({{ site.url }}/assets/IMG_20181014_115527.jpg)
+![]({{ site.url }}/assets/IMG_20181014_115628.jpg)
+![]({{ site.url }}/assets/IMG_20181014_135027.jpg)
+![]({{ site.url }}/assets/IMG_20181014_144009.jpg)
+![]({{ site.url }}/assets/IMG_20181014_144020.jpg)
+![]({{ site.url }}/assets/IMG_20181014_145509.jpg)
+![]({{ site.url }}/assets/IMG_20181014_151756.jpg)
+![]({{ site.url }}/assets/IMG_20181014_151842.jpg)
+![]({{ site.url }}/assets/IMG_20181014_152138.jpg)
+![]({{ site.url }}/assets/IMG_20181014_152715.jpg)
+![]({{ site.url }}/assets/IMG_20181014_205612.jpg)
+
+
+Tracelog: [xcontest](https://www.xcontest.org/world/en/flights/detail:mihai.m/14.10.2018/05:42)
+/
+[animation](https://ayvri.com/scene/7dj203q05e/cjo1qb7qw0001306881sodh18)
+Tracelog: [xcontest](https://www.xcontest.org/world/en/flights/detail:mihai.m/14.10.2018/08:39)
+/
+[animation](https://ayvri.com/scene/7dj203q05e/cjo1qceet000130680qvahbab)
+
+# Day 5 - first incursion into "the back", camping at golf course
+Kieron didn't fly on this day, preparing his equipment for his upcoming vol-biv course guided by Debu, a famous Indian pilot. I took my camping gear with me, and I adventured a bit outside of the main ridge, going a bit "over the back" into the higher mountains. After 2h of exploring the higher mountains, I came back to the main ridge and top landed at the golf course. To be noted that going over the back even for short distances without a satellite device (Spot, InReach) and camping/survival gear, is a bit irresponsible (I had both); there are few villages, and the mountains are big, snowy, and wild.
+The views of the snowy peaks were amazing, and I beat my personal altitude record, reaching 4600m!
+![]({{ site.url }}/assets/IMG_20181015_125739.jpg)
+![]({{ site.url }}/assets/IMG_20181015_125920.jpg)
+![]({{ site.url }}/assets/IMG_20181015_125933.jpg)
+![]({{ site.url }}/assets/IMG_20181015_130535.jpg)
+![]({{ site.url }}/assets/IMG_20181015_130547.jpg)
+![]({{ site.url }}/assets/IMG_20181015_130604.jpg)
+![]({{ site.url }}/assets/IMG_20181015_130703.jpg)
+![]({{ site.url }}/assets/IMG_20181015_163846.jpg)
+![]({{ site.url }}/assets/IMG_20181015_163920.jpg)
+![]({{ site.url }}/assets/IMG_20181015_170904.jpg)
+![]({{ site.url }}/assets/IMG_20181015_170919.jpg)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lvKD2DhZT74" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GwIhEQGk5us" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5GvgTiNk6ag" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+As I top landed, two nice local shepherds (with herds of sheep and goats) came to see me and invited me for chai, so once I set up my camp I went and joined them at their fire for the sunset. The chai was good but had a very strong taste of sheep's milk, acquired taste I think 😉 I then went to my tent and went ahead and slept for around 11 hours (it gets dark early...)
+
+Tracelog: [xcontest](https://www.xcontest.org/world/en/flights/detail:mihai.m/15.10.2018/06:34)
+/
+[animation](https://ayvri.com/scene/7dj203q05e/cjo1qeg2h00013068mhy771e5)
+
+# Day 6 - Thamsar pass, flying at 5500m
+One of my best flights ever. Taking off from the golf course, I went again over the back. The weather was even better than the day before, with higher cloudbase and strong but easy conditions inviting exploration.
+As I flew over Thamsar pass situated at 4650m, I noticed a line of moving shapes in the snow. I remember that my first thought was: "wow, they do ski touring in Himachal!", because it was very similar to a line of skiers cutting path through the fresh snow. Turns out, it was shepherds crossing the pass with their huge herds! An amazing sight, and I had mixed feelings of admiration and concern for them. When I looked it up on the internet in the evening, turns out a lot of shepherds got stuck on the other side of the pass (which they need to cross in this period of the year) because of the early and abundant snow this year. So what I have seen might have been some of the more brave (or desperate) ones that decided to cross anyway...
+
+![]({{ site.url }}/assets/IMG_20181016_082305.jpg)
+![]({{ site.url }}/assets/IMG_20181016_082313.jpg)
+![]({{ site.url }}/assets/IMG_20181016_112226.jpg)
+![]({{ site.url }}/assets/IMG_20181016_112228.jpg)
+![]({{ site.url }}/assets/IMG_20181016_112256.jpg)
+![]({{ site.url }}/assets/IMG_20181016_112304.jpg)
+![]({{ site.url }}/assets/IMG_20181016_112307.jpg)
+![]({{ site.url }}/assets/IMG_20181016_113307.jpg)
+![]({{ site.url }}/assets/IMG_20181016_113313.jpg)
+![]({{ site.url }}/assets/IMG_20181016_113328.jpg)
+![]({{ site.url }}/assets/IMG_20181016_113355.jpg)
+![]({{ site.url }}/assets/IMG_20181016_113358.jpg)
+![]({{ site.url }}/assets/IMG_20181016_113408.jpg)
+![]({{ site.url }}/assets/IMG_20181016_113420.jpg)
+![]({{ site.url }}/assets/IMG_20181016_113432.jpg)
+![]({{ site.url }}/assets/IMG_20181016_113443.jpg)
+![]({{ site.url }}/assets/IMG_20181016_113459.jpg)
+![]({{ site.url }}/assets/IMG_20181016_113503.jpg)
+![]({{ site.url }}/assets/IMG_20181016_113506.jpg)
+![]({{ site.url }}/assets/IMG_20181016_113512.jpg)
+![]({{ site.url }}/assets/IMG_20181016_115200.jpg)
+![]({{ site.url }}/assets/IMG_20181016_115202.jpg)
+![]({{ site.url }}/assets/IMG_20181016_115229.jpg)
+![]({{ site.url }}/assets/IMG_20181016_115233.jpg)
+![]({{ site.url }}/assets/IMG_20181016_115257.jpg)
+![]({{ site.url }}/assets/IMG_20181016_115343.jpg)
+![]({{ site.url }}/assets/IMG_20181016_115350.jpg)
+![]({{ site.url }}/assets/IMG_20181016_124527_BURST017.jpg)
+![]({{ site.url }}/assets/IMG_20181016_124639.jpg)
+![]({{ site.url }}/assets/IMG_20181016_124704.jpg)
+![]({{ site.url }}/assets/IMG_20181016_125147.jpg)
+
+
+I didn't spend a huge amount of time over the back, only about 1h20, because I was flying high and I was getting quite cold in my hands despite regularly "centrifuging" them in order to warm up, and I was starting to get cold in the feet as well. Once back over the main ridge, I just flew around at a lower altitude for a while to enjoy the views and warm up and then simply went to land.
+
+Tracelog: [xcontest](https://www.xcontest.org/world/en/flights/detail:mihai.m/16.10.2018/04:14)
+/
+[animation](https://ayvri.com/scene/7dj203q05e/cjo1r1emw00013068hu0xso8z)
+
+# Day 7 - day off
+
+# Day 8
+... to be completed
+
+Tracelog: [xcontest](https://www.xcontest.org/world/en/flights/detail:mihai.m/18.10.2018/07:07)
+/
+[animation]()
+
+# Day 9
+
+# Day 10
+Tracelog: [xcontest](https://www.xcontest.org/world/en/flights/detail:mihai.m/20.10.2018/06:29)
+/
+[animation]()
+Day 11:
+Tracelog: [xcontest](https://www.xcontest.org/world/en/flights/detail:mihai.m/21.10.2018/05:00)
+/
+[animation]()
+
+Day 12:
+Tracelog: [xcontest](https://www.xcontest.org/world/en/flights/detail:mihai.m/22.10.2018/04:31)
+/
+[animation]()
+Day 13:
+Tracelog: [xcontest](https://www.xcontest.org/world/en/flights/detail:mihai.m/23.10.2018/05:07)
+/
+[animation]()
+
+# Days 14-16 - off
+
+# Day 17
+Tracelog: [xcontest](https://www.xcontest.org/world/en/flights/detail:mihai.m/27.10.2018/04:34)
+/
+[animation]()
+# Day 18
+Tracelog: [xcontest](https://www.xcontest.org/world/en/flights/detail:mihai.m/28.10.2018/06:04)
+/
+[animation]()
+
+
+## Conclusion
+40h in 3 weeks
+
+
+# Links to some great vol-biv videos:
+  - [North of Known - traversing the Alaska Range](https://www.redbull.com/int-en/tv/video/AP-1NC8CBHDS1W11/north-of-known)
+  - [Bivouac en Inde Loraine Humeau François Ragolski](https://www.youtube.com/watch?v=_2w7WQA9UU8)
