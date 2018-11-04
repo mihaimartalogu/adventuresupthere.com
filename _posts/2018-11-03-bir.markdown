@@ -16,7 +16,7 @@ I have read a lot of great things about flying in the Himalayas, and the idea of
 Having just finished my 3 weeks stay in Bir, I can tell my impressions. [Bir](https://en.wikipedia.org/wiki/Bir,_Himachal_Pradesh) is a village in the Himachal Pradesh province in the north of India, and Billing is the name of the takeoff. In the paragliding world, both are commonly referred to as "Bir-Billing". I arrived without a plan, and with relatively low expectations; I knew that the flying is along a long ridge that is similar to the Goms valley in Switzerland (but at a bigger scale), that flying along the ridge is not too difficult, that almost every day is flyable, and that there would be many many pilots in the air. So to be honest I was kind of expecting to be tired of it after just a couple of days. How mistaken I was!
 First of all, India did not disappoint: food is as great, people as warm and welcoming, and things as colorful and chaotic as I imagined them!
 
-# Day 0 - Getting there
+## Day 0 - Getting there
 I arrived by plane to the Delhi airport, and was pleasantly impressed by it, but I couldn't figure out why I liked it. Having since passed another few hours there, I noticed the signs saying "This is a silent airport". Wow! What a huge improvement not having incessant announcements shouted at you makes!
 
 I had a taxi arranged (inter-city taxis are common in India) to take me to Bir, so getting up to the northern province of Himachal Pradesh was straightforward. Delhi (and much of the first half of the way) was very polluted and with heavy traffic, so I was glad to be on my way north.
@@ -33,7 +33,7 @@ The hostel I stayed in was quite nice, I initially thought I would just spend a 
 
 As soon as I arrived, I met a brit pilot named Kieron who proposed that we fly together the next day, going up late, just for a small flight to discover the takeoff and the landing. (Kieron turned out to be a cool guy, and we ended up hanging out and flying together several times during my stay in Bir)
 
-# Day 1 - Cloud flying
+## Day 1 - Cloud flying
 Well, for a small flight, I was quite impressed: takeoff around 3pm, 1h10 in the air, good thermals (went up to 3400), and some super nice "cloud flying" playing with the small puffy cumulus clouds!
 <div class="pa-embed-player" style="width:100%; height:480px; display:none;"
   data-link="https://photos.app.goo.gl/RQYwE6QAAghCLV3R7"
@@ -48,7 +48,7 @@ Tracelog: [xcontest](https://www.xcontest.org/world/en/flights/detail:mihai.m/11
 /
 [animation](https://ayvri.com/scene/7dj203q05e/cjo1ogpim00013068cixvds4g)
 
-# Day 2 - Golf course top landing, 360 camp
+## Day 2 - Golf course top landing, 360 camp
 This time, we went up with Kieron with a bit more appetite for exploration.
 <div class="pa-embed-player" style="width:100%; height:480px; display:none;"
   data-link="https://photos.app.goo.gl/bd1KPnWjXreAZiXE9"
@@ -70,7 +70,7 @@ Tracelog: [xcontest](https://www.xcontest.org/world/en/flights/detail:mihai.m/12
 /
 [animation](https://ayvri.com/scene/7dj203q05e/cjo1p0ej700013068st4iomaj)
 
-# Day 3 - Dharamshala
+## Day 3 - Dharamshala
 Again with Kieron, the plan for the day was to fly to Dharamshala (the Dalai Lama's residence) and back. The day before, I had forgotten my gore-tex overmittens that I sometimes wear on top of my gloves, and my hands were a bit cold. This time, I remembered to bring them. However, even worse, I now forgot the other two layers of gloves! So I had to improvise, following a suggestion from Kieron:
 
 <div class="pa-embed-player" style="width:100%; height:480px; display:none;"
@@ -88,7 +88,7 @@ Tracelog: [xcontest](https://www.xcontest.org/world/en/flights/detail:mihai.m/13
 /
 [animation](https://ayvri.com/scene/7dj203q05e/cjo1p8vez00013068zjjyxfg9)
 
-# Day 4 - Camp 360 top landing
+## Day 4 - Camp 360 top landing
 This day, we flew to the east, and top landed at Camp 360. I took more pictures this day.
 <script src="https://www.publicalbum.org/js/pa-embed-player.min.js" async></script>
 <div class="pa-embed-player" style="width:100%; height:480px; display:none;"
@@ -120,7 +120,7 @@ Tracelog: [xcontest](https://www.xcontest.org/world/en/flights/detail:mihai.m/14
 /
 [animation](https://ayvri.com/scene/7dj203q05e/cjo1qceet000130680qvahbab)
 
-# Day 5 - first incursion into "the back", camping at golf course
+## Day 5 - first incursion into "the back", camping at golf course
 Kieron didn't fly on this day, being busy preparing his equipment for his upcoming vol-biv course guided by Debu, a famous Indian pilot. I took my camping gear with me, and I adventured a bit outside of the main ridge, going a bit "over the back" into the higher mountains. After 2h of exploring the higher mountains, I came back to the main ridge and top landed at the golf course. To be noted that going over the back even for short distances without a satellite device (Spot, InReach) that is monitored by your emergency contacts, and camping/survival gear in your pack, is a bit irresponsible (I had both); there are few villages, and the mountains are big, snowy, and wild.
 
 It's definitely worth it though, if you have the skills and the commitment. The views of the snowy peaks were amazing, and I beat my personal altitude record, reaching 4600m!
@@ -151,7 +151,7 @@ Tracelog: [xcontest](https://www.xcontest.org/world/en/flights/detail:mihai.m/15
 /
 [animation](https://ayvri.com/scene/7dj203q05e/cjo1qeg2h00013068mhy771e5)
 
-# Day 6 - Thamsar pass, flying at 5500m
+## Day 6 - Thamsar pass, flying at 5500m
 One of my best flights ever. Taking off from the golf course, I went again over the back. The weather was even better than the day before, with higher cloudbase and strong but easy conditions inviting exploration. I smashed my personal height record established just the day before! 🤣
 
 As I flew over Thamsar pass situated at 4650m, I noticed a line of moving shapes in the snow. I remember that my first thought was: "wow, they do ski touring in Himachal!", because it was very similar to a line of skiers cutting path through the fresh snow. Turns out, it was shepherds crossing the pass with their huge herds! An amazing sight, and I had mixed feelings of admiration and concern for them. When I looked it up on the internet in the evening, turns out a lot of shepherds got stuck on the other side of the pass (which they need to cross in this period of the year) because of the early and abundant snow this year. So what I have seen might have been some of the more brave (or desperate) ones that decided to cross anyway...
@@ -199,10 +199,10 @@ Tracelog: [xcontest](https://www.xcontest.org/world/en/flights/detail:mihai.m/16
 /
 [animation](https://ayvri.com/scene/7dj203q05e/cjo1r1emw00013068hu0xso8z)
 
-# Day 7 - day off
+## Day 7 - day off
 Just an easy day spent relaxing, doing laundry, and eating yummy indian food.
 
-# Day 8 - pushing against wind
+## Day 8 - pushing against wind
 In the taxi up to takeoff, I met Eliya, a pilot from Israel but living in Switzerland, and we tried flying together. We went just one ridge back, planning to then go towards the east. There was quite a bit of a headwind coming from the east, so it was slow progress. After a while Eliya gave up (he had a glider with slightly less performance against the wind), and returned to the main ridge, and I carried on alone. At some point I got very low above a village on the back ridge, and I thought I was in for a visit of the village 😅. But after quite a bit of effort I managed to get back up to the top of the ridge and then fly further along it, and eventually cross back to the front ridge.
 I took no pictures this day because I needed all my concentration for the piloting.
 
@@ -210,7 +210,7 @@ Tracelog: [xcontest](https://www.xcontest.org/world/en/flights/detail:mihai.m/18
 /
 [animation](https://ayvri.com/scene/7dj203q05e/cjo2eggn60001306817hvdg3z)
 
-# Day 9 - hike through the forest
+## Day 9 - hike through the forest
 I took another day off flying, and went on a hike. There are some waterfalls on one of the creeks in the area, and I had the topo maps of Himachal downloaded to the Locus app, so I figured I'll just take the hiking path that goes up to the takeoff, and cut through the forest to get to the river and the waterfalls. I might have slightly overestimated my abilities and underestimated the difficulty 😅. I did end up finding a river, and it even had some waterfalls, it was pretty but not the one I had planned. And my decision of going down by the river to the valley ended up in defeat, after the 3rd 5 meter waterfall surrounded by steep terrain with dense vegetation and MONSTER stinging nettles (which also sting at least 10x as bad as the european ones!), I gave up and scrambled back up until the path, and walked it down until Bir. Going down was quite efficient, I crossed the same truck at least 3 times near the top and also at the bottom, when the path would intersect the road, the driver seemed impressed and was giving me the thumbs up every time (but I was not even running down, it's just that much shorter).
 
 <div class="pa-embed-player" style="width:100%; height:480px; display:none;"
@@ -228,7 +228,7 @@ I took another day off flying, and went on a hike. There are some waterfalls on 
 </div>
 
 
-# Day 10 - Dharamshala fast run
+## Day 10 - Dharamshala fast run
 Wanted to camp towards Dharamshala, near a peak called Triund. But once I got there I judged that the conditions were a bit too difficult/risky for top landing, so I just decided to go back and top land somewhere closer to Bir. On my way back, I probably only thermaled 3 times, it was very efficient flying. I did not even try to go fast, but it turned out to be my so far longest flight (with the fastest average speed).
 
 On my way to 360 camp, where I initially planned to stay, I noticed two tents being set up at a nice spot on the ridge, just around 5km from the official takeoff. I did fly until 360, but then came back and joined them for the night. They turned out to be 2 nice guys from Australia/New Zealand, and we had a good evening.
@@ -254,7 +254,7 @@ Tracelog: [xcontest](https://www.xcontest.org/world/en/flights/detail:mihai.m/20
 /
 [animation](https://ayvri.com/scene/7dj203q05e/cjo2gzo2z00013068v92iklq7)
 
-# Day 11 - Back to Bir
+## Day 11 - Back to Bir
 I was supposed to meet up with Eliya and fly together, but as we didn't have radio contact, we managed to miss each other. After about 1h of waiting, and with clouds becoming a bit menacing towards the west, I gave up and just went to landing.
 
 <div class="pa-embed-player" style="width:100%; height:480px; display:none;"
@@ -279,7 +279,7 @@ Tracelog: [xcontest](https://www.xcontest.org/world/en/flights/detail:mihai.m/21
 /
 [animation](https://ayvri.com/scene/7dj203q05e/cjo2h2wiz000130685vel5dig)
 
-# Day 12 - Camping in the back
+## Day 12 - Camping in the back
 I went to fly a bit over the back again, the cloudbase was not high enough to go too far, but I did end up reaching the shoulder of a mountain that a nice guy told me about when I top landed at 360 a few days back. I saw some nice lakes and smooth landing options on that shoulder, so I decided to spend the night there. But it was still early, and I had enough height, so I explored a bit further along that ridge before turning back. When I was coming back, I saw 3 pilots top-landing pretty much where I wanted to, so I just joined them. Turns out one of them was Mike, the same guy I met at 360 the other day that told me about the place. They top landed because one of their friends had been trekking in the area for a couple of days with a group, and they were planning to camp at this spot, so they wanted to surprise him. I ended up spending a great evening with Mike, his brother Mani, Jim (all big names in the Himalayan paragliding world!) and their trekking friends. I'll let the pictures speak for themselves, the place is magic.
 
 <div class="pa-embed-player" style="width:100%; height:480px; display:none;"
@@ -342,7 +342,7 @@ Tracelog: [xcontest](https://www.xcontest.org/world/en/flights/detail:mihai.m/22
 [animation](https://ayvri.com/scene/7dj203q05e/cjo2his7400013068edrke073)
 
 
-# Day 13 - Big conditions
+## Day 13 - Big conditions
 In the morning, everything was frosted, beautiful landscape. After breakfast, we were quite relaxed, taking our time to chat and slowly prepare our packs. We did notice the small cumulus clouds popping out already at 7h50, which is always a bad sign (highly unstable), but we didn't really act on the observation. Then in basically half an hour, the weather went from innocent isolated cumulus clouds to widespread dark cloudbase, and already snow dropping in the valley just behind us! We didn't lose much time in preparing our wings and taking off (and in all honesty, we left it for too late and it was already a bit risky). The other guys went ahead, two of them staying to fly in the high mountains, and one going to the front ridge. I was a bit slow to climb out, and by the time I got high, it was already snowing on our camping spot. I didn't linger too long in the area, I moved across to the next mountain which had less menacing weather. There I climbed up, and at 3900m started gliding towards to the front ridge. But somehow I got on a very sinky line, and realized quite late that I wasn't going to make it over the ridge. Then instead of turning back immediately anyway, I decided to try to find a lee-side thermal to get me just high enough to cross; that turned out to be a big mistake (bad judgment because of my lack of experience!). The thermals were nasty, as that day the south wind was much stronger than usual, and I got ejected by one and caught in a nasty rotor where I got a big frontal collapse. The collapse was quite difficult to recover from because the glider was in strong rotor and downdraft. It's not at all the same behavior as in an SIV course in calm air! I eventually did manage to recover it, but with not a lot of height to spare above the trees, I had to quickly escape to the other side of the valley. There I found much safer conditions to climb out, even though I still had to walk a fine line between the very weak climbs under the edge of the clouds, and the strong ones in the darker areas where it was snowing. I eventually got high enough, and did the crossing again (this time from 3900m, and on a much better line), passed the ridge with plenty of margin, and went to landing.
 
 <script src="https://www.publicalbum.org/js/pa-embed-player.min.js" async></script>
@@ -373,12 +373,12 @@ Tracelog: [xcontest](https://www.xcontest.org/world/en/flights/detail:mihai.m/23
 /
 [animation](https://ayvri.com/scene/7dj203q05e/cjo2jfxvi00013068o4o44zyh)
 
-# Days 14-16
+## Days 14-16
 There have been a couple of bad accidents in the past few days, and my own experience in the rotor also made me take a step back. I remembered that initially I came here just to discover the place and fly conservatively, not to make big flights and take risks. I figured I flew more than enough and easily reached (and exceeded!) my goals for the trip, so I would just take it easy and not fly anymore until the end of my stay.
 So I simply spent the following days enjoying the quiet village life, working on a project on my laptop, and doing a bit of yoga in the evenings (there is a very good place [http://aryamargayoga.org/](http://aryamargayoga.org/)).
 
 
-# Day 17 - One last vol-biv
+## Day 17 - One last vol-biv
 Kieron somehow managed to convince me to come for a last little vol-biv expedition. We were 4 in total, Kieron, Eric (a guy that did the vol-biv course with Kieron), Eliya, and myself.
 Takeoff was quite crowded, and we took off a bit out of sync. I managed to almost catch up with Kieron and Eric but at a certain point they went ahead and I never managed to find them again. I was disappointed, because racing ahead like that was not nice behavior at all when we left as a group, especially that Eliya was still quite a way back (and we already had a "are we flying together or not" conversation with Kieron a few days back!). I tried following them for a while, and then flew around the place where we were considering to camp, for around half an hour. I didn't see any signs of the guys, nor an inspiring place to top land, so once Eliya caught up with me there and managed to climb out, we agreed on flying east and landing at 360 camp.
 
@@ -403,7 +403,7 @@ Tracelog: [xcontest](https://www.xcontest.org/world/en/flights/detail:mihai.m/27
 /
 [animation](https://ayvri.com/scene/7dj203q05e/cjo2kcfhz00013068ypti1jiy)
 
-# Day 18 - Back to Bir
+## Day 18 - Back to Bir
 The conditions were stable with a strong inversion, impossible to climb high, so it was quite a bit of work to get back to landing. Eliya, not the most patient pilot in the world either, was flying very low, and made me gasp in concern for his safety at certain points. I was usually higher, but it was still slow and relatively stressful going. Eventually we did get over the takeoff, and I spiraled down to Eliya's position to tell him I was going to land, and went for a last meal at the south indian restaurant where I spent my very last rupees. Eliya continued the flight for a while, top landing at golf course and flying some more, and then we met again after he landed.
 
 It was a very nice vol-biv trip to wrap up my stay in Bir, before taking the bus to Delhi together with Kieron the next day.
@@ -423,13 +423,13 @@ Tracelog: [xcontest](https://www.xcontest.org/world/en/flights/detail:mihai.m/28
 [animation](https://ayvri.com/scene/7dj203q05e/cjo2kdutv00013068i6n70510)
 
 
-## Conclusion
+# Conclusion
 
 40h of flying in 3 weeks, getting up to 5500m, amazing scenery, great food and nice encounters, Bir left a strong impression on me. I will definitely be back for more vol-biv adventures!
 
-# Links to some great vol-biv videos:
+## Links to some great vol-biv videos:
   - [North of Known - traversing the Alaska Range](https://www.redbull.com/int-en/tv/video/AP-1NC8CBHDS1W11/north-of-known)
   - [Bivouac en Inde Loraine Humeau François Ragolski](https://www.youtube.com/watch?v=_2w7WQA9UU8)
 
-## Want to join me in the Himalayas next year?
+# Want to join me in the Himalayas next year?
 Get in touch, fly with me at least a couple of small vol-bivs in the Alps, be a good team player and good company, leave your ego behind, and I would be glad to include you in my plans.
