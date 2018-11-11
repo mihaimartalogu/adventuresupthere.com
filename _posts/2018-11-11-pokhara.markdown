@@ -1,0 +1,15 @@
+---
+
+layout: post
+
+title:  "Bir-Billing - 10-29 October 2018"
+
+date:   2018-11-03 20:59:06 +0530
+
+categories: paragliding
+
+---
+
+<script src="https://www.publicalbum.org/js/pa-embed-player.min.js" async></script>
+
+Testing posting from mobile
