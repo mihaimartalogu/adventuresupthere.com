@@ -2,9 +2,9 @@
 
 layout: post
 
-title:  "Bir-Billing - 10-29 October 2018"
+title:  "Pokhara - 01-? November 2018"
 
-date:   2018-11-03 20:59:06 +0530
+date:   2018-11-11 15:59:06 +0530
 
 categories: paragliding
 
