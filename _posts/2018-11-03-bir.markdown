@@ -3,8 +3,202 @@ layout: post
 title:  "Bir-Billing - 10-29 October 2018"
 date:   2018-11-03 20:59:06 +0530
 categories: paragliding
+galleries:
+  day0:
+    pictures:
+      - url: "IMG_20181010_094531.jpg"
+  day1:
+    pictures:
+      - url: "IMG_20181011_155609.jpg"
+      - youtube_hash: "YAWnuhZgguo"
+      - youtube_hash: "Fej9Wr4gJjA"
+  day2:
+    pictures:
+      - url: "IMG_20181012_125919.jpg"
+  day3:
+    pictures:
+      - url: "IMG_20181013_113034.jpg"
+  day4:
+    pictures:
+      - url: "IMG_20181014_105326.jpg"
+      - url: "IMG_20181014_105420.jpg"
+      - url: "IMG_20181014_115527.jpg"
+      - url: "IMG_20181014_115628.jpg"
+      - url: "IMG_20181014_135027.jpg"
+      - url: "IMG_20181014_144009.jpg"
+      - url: "IMG_20181014_144020.jpg"
+      - url: "IMG_20181014_145509.jpg"
+      - url: "IMG_20181014_151756.jpg"
+      - url: "IMG_20181014_151842.jpg"
+      - url: "IMG_20181014_152138.jpg"
+      - url: "IMG_20181014_152715.jpg"
+      - url: "IMG_20181014_205612.jpg"
+  day5:
+    pictures:
+      - url: "IMG_20181015_125739.jpg"
+      - url: "IMG_20181015_125920.jpg"
+      - url: "IMG_20181015_125933.jpg"
+      - url: "IMG_20181015_130535.jpg"
+      - url: "IMG_20181015_130547.jpg"
+      - url: "IMG_20181015_130604.jpg"
+      - url: "IMG_20181015_130703.jpg"
+      - url: "IMG_20181015_163846.jpg"
+      - url: "IMG_20181015_163920.jpg"
+      - url: "IMG_20181015_170904.jpg"
+      - url: "IMG_20181015_170919.jpg"
+      - youtube_hash: "lvKD2DhZT74"
+      - youtube_hash: "GwIhEQGk5us"
+      - youtube_hash: "5GvgTiNk6ag"
+  day6:
+    pictures:
+      - url: "IMG_20181016_082305.jpg"
+      - url: "IMG_20181016_082313.jpg"
+      - url: "IMG_20181016_112226.jpg"
+      - url: "IMG_20181016_112228.jpg"
+      - url: "IMG_20181016_112256.jpg"
+      - url: "IMG_20181016_112304.jpg"
+      - url: "IMG_20181016_112307.jpg"
+      - url: "IMG_20181016_113307.jpg"
+      - url: "IMG_20181016_113313.jpg"
+      - url: "IMG_20181016_113328.jpg"
+      - url: "IMG_20181016_113355.jpg"
+      - url: "IMG_20181016_113358.jpg"
+      - url: "IMG_20181016_113408.jpg"
+      - url: "IMG_20181016_113420.jpg"
+      - url: "IMG_20181016_113432.jpg"
+      - url: "IMG_20181016_113443.jpg"
+      - url: "IMG_20181016_113459.jpg"
+      - url: "IMG_20181016_113503.jpg"
+      - url: "IMG_20181016_113506.jpg"
+      - url: "IMG_20181016_113512.jpg"
+      - url: "IMG_20181016_115200.jpg"
+      - url: "IMG_20181016_115202.jpg"
+      - url: "IMG_20181016_115229.jpg"
+      - url: "IMG_20181016_115233.jpg"
+      - url: "IMG_20181016_115257.jpg"
+      - url: "IMG_20181016_115343.jpg"
+      - url: "IMG_20181016_115350.jpg"
+      - url: "IMG_20181016_124527_BURST017.jpg"
+      - url: "IMG_20181016_124639.jpg"
+      - url: "IMG_20181016_124704.jpg"
+      - url: "IMG_20181016_125147.jpg"
+  day9:
+    pictures:
+      - url: "IMG_20181019_141238.jpg"
+      - url: "IMG_20181019_154628.jpg"
+      - url: "IMG_20181019_155135.jpg"
+      - url: "IMG_20181019_155626.jpg"
+      - url: "IMG_20181019_155906.jpg"
+      - url: "IMG_20181019_160701.jpg"
+      - url: "IMG_20181019_165837.jpg"
+      - url: "IMG_20181019_174130.jpg"
+  day10:
+    pictures:
+      - url: "IMG_20181020_151234.jpg"
+      - url: "IMG_20181020_152850.jpg"
+      - url: "IMG_20181020_152910.jpg"
+      - url: "IMG_20181020_152919.jpg"
+      - url: "IMG_20181020_152955.jpg"
+      - url: "IMG_20181020_153441.jpg"
+      - url: "IMG_20181020_153452.jpg"
+      - url: "IMG_20181020_164647.jpg"
+      - url: "IMG_20181020_172800.jpg"
+  day11:
+    pictures:
+      - url: "IMG_20181021_064336.jpg"
+      - url: "IMG_20181021_095946.jpg"
+      - url: "IMG_20181021_112629.jpg"
+      - url: "IMG_20181021_112739.jpg"
+      - url: "IMG_20181021_114559.jpg"
+      - url: "IMG_20181021_114747.jpg"
+      - url: "IMG_20181021_153113.jpg"
+      - url: "IMG_20181021_153840.jpg"
+      - url: "IMG_20181021_155452.jpg"
+      - url: "IMG_20181021_161037.jpg"
+      - url: "IMG_20181021_173318.jpg"
+  day12:
+    pictures:
+      - url: "IMG_20181022_112435.jpg"
+      - url: "IMG_20181022_112448.jpg"
+      - url: "IMG_20181022_112501.jpg"
+      - url: "IMG_20181022_112520.jpg"
+      - url: "IMG_20181022_120013.jpg"
+      - url: "IMG_20181022_120140.jpg"
+      - url: "IMG_20181022_122645.jpg"
+      - url: "IMG_20181022_122651.jpg"
+      - url: "IMG_20181022_122728.jpg"
+      - url: "IMG_20181022_130943.jpg"
+      - url: "IMG_20181022_130947.jpg"
+      - url: "IMG_20181022_131032.jpg"
+      - url: "IMG_20181022_132453.jpg"
+      - url: "IMG_20181022_132645.jpg"
+      - url: "IMG_20181022_132723.jpg"
+      - url: "IMG_20181022_132817.jpg"
+      - url: "IMG_20181022_133203.jpg"
+      - url: "IMG_20181022_133427.jpg"
+      - url: "IMG_20181022_133450.jpg"
+      - url: "IMG_20181022_144329.jpg"
+      - url: "IMG_20181022_144344.jpg"
+      - url: "IMG_20181022_144349.jpg"
+      - url: "IMG_20181022_145727.jpg"
+      - url: "IMG_20181022_145746.jpg"
+      - url: "IMG_20181022_145754.jpg"
+      - url: "IMG_20181022_150406.jpg"
+      - url: "IMG_20181022_150415.jpg"
+      - url: "IMG_20181022_152908.jpg"
+      - url: "IMG_20181022_152912.jpg"
+      - url: "IMG_20181022_153846.jpg"
+      - url: "IMG_20181022_154355.jpg"
+      - url: "IMG_20181022_154405.jpg"
+      - url: "IMG_20181022_160534.jpg"
+      - url: "IMG_20181022_160540.jpg"
+      - url: "IMG_20181022_162916.jpg"
+      - url: "IMG_20181022_162936.jpg"
+      - url: "IMG_20181022_173247.jpg"
+      - url: "IMG_20181022_173402.jpg"
+      - url: "IMG_20181022_173529.jpg"
+      - url: "IMG_20181022_173629.jpg"
+      - url: "IMG_20181022_173645.jpg"
+      - url: "IMG_20181022_173646.jpg"
+      - url: "IMG_20181022_173901.jpg"
+      - url: "IMG_20181022_174250.jpg"
+      - url: "IMG_20181022_174323.jpg"
+      - url: "IMG_20181022_175744.jpg"
+      - url: "IMG_20181022_182640.jpg"
+      - url: "IMG_20181022_183206.jpg"
+  day13:
+    pictures:
+      - url: "IMG_20181023_070929.jpg"
+      - url: "IMG_20181023_071307.jpg"
+      - url: "IMG_20181023_071531.jpg"
+      - url: "IMG_20181023_071546.jpg"
+      - url: "IMG_20181023_073243.jpg"
+      - url: "IMG_20181023_073307.jpg"
+      - url: "IMG_20181023_075852.jpg"
+      - url: "IMG_20181023_081142.jpg"
+      - url: "IMG_20181023_081207.jpg"
+      - url: "IMG_20181023_081651.jpg"
+      - url: "IMG_20181023_081905.jpg"
+      - url: "IMG_20181023_082009.jpg"
+      - url: "IMG_20181023_084157.jpg"
+      - url: "IMG_20181023_084528.jpg"
+      - url: "IMG_20181023_102523.jpg"
+      - url: "IMG_20181023_105555.jpg"
+      - url: "IMG_20181023_141615.jpg"
+  day17:
+    pictures:
+      - url: "IMG_20181027_111922.jpg"
+      - url: "IMG_20181027_112045.jpg"
+      - url: "IMG_20181027_155542.jpg"
+      - url: "IMG_20181027_155649.jpg"
+      - url: "IMG_20181027_155707.jpg"
+      - url: "IMG_20181027_165928.jpg"
+  day18:
+    pictures:
+      - url: "IMG_20181028_065301.jpg"
+      - url: "IMG_20181028_102514.jpg"
+      - url: "IMG_20181028_145226.jpg"
 ---
-<script src="https://www.publicalbum.org/js/pa-embed-player.min.js" async></script>
 
 Ever since I took up paragliding, I have been attracted by vol-biv adventures. Vol-biv is an approach to the mountains where you hike up with a backpack containing your paraglider and everything needed for surviving for a couple of days, and then you take off and try to fly as far as possible in the direction you want to go. Then you land, you camp, and next day you hike up again to a place where you can take off from, and repeat. You have complete freedom in choosing how adventurous you want to make it: from the "lazy" version easily done in the Alps where you can always land in populated valleys and sleep in campings/hotels, and take taxis/cable-cars up the hill the next day, all the way to the more "wild" fully autonomous version where you try to land as high as possible on the mountain, eat chinese noodles under your tarp, sleep wrapped in your paraglider for warmth, and hike up to the top the next day to fly off again.
 If you have the time and want to watch a couple of the greatest vol-biv videos I've seen, I've put a few links at the bottom of this post. 
@@ -21,11 +215,8 @@ I arrived by plane to the Delhi airport, and was pleasantly impressed by it, but
 
 I had a taxi arranged (inter-city taxis are common in India) to take me to Bir, so getting up to the northern province of Himachal Pradesh was straightforward. Delhi (and much of the first half of the way) was very polluted and with heavy traffic, so I was glad to be on my way north.
 
-<div class="pa-embed-player" style="width:100%; height:480px; display:none;"
-  data-link="https://photos.app.goo.gl/kn3XRBLoxffeKQeg8"
-  data-title="Bir day 0"
-  data-descrition="New photo · Album by Mihai Martalogu">
-  <img data-src="https://lh3.googleusercontent.com/F04uZWjQLJ-vuiijIwMPM746e-x4XX95It9TBwcGssHFcRTFfXz7Bo1FIZstygescLFsXDjm58dI3OwU7VPYUe_oPfU4JBYJffCycrYG8guksu503bKq6LLB8xpTSXahjW4z8FEQHQ=w1920-h1080" src="" alt="" />
+<div class="justified-gallery">
+{% include gallery.html gallery_id="day0" %}
 </div>
 
 I was thankfully quite tired, so the crazy driving around me (my driver was safe) and the incessant honking didn't prevent me from falling asleep much of the way there. However, for the last 3 hours during the night, on small mountain roads, with cars going in all directions and flashing their lamps, huge potholes, random cows and dogs peacefully sitting or walking in the middle of the road in the worst possible places, I can assure you I was wide awake! And they call paragliding dangerous...
@@ -35,14 +226,10 @@ As soon as I arrived, I met a brit pilot named Kieron who proposed that we fly t
 
 ## Day 1 - Cloud flying
 Well, for a small flight, I was quite impressed: takeoff around 3pm, 1h10 in the air, good thermals (went up to 3400), and some super nice "cloud flying" playing with the small puffy cumulus clouds!
-<div class="pa-embed-player" style="width:100%; height:480px; display:none;"
-  data-link="https://photos.app.goo.gl/RQYwE6QAAghCLV3R7"
-  data-title="Bir day 1"
-  data-descrition="New photo · Album by Mihai Martalogu">
-  <img data-src="https://lh3.googleusercontent.com/RQ72XB_sidJDdJOd4TtP8Pamv9djWCflC3RSIod5z91YHGzWeUbyC9yZGl69LmTBVb_A2a1W-9Cw0MDxDBaZCGBSVtZSnvS3zk2lsJ1tEfNULPHjw1PR4T5fp7QhMa2dG3UTNFFNGA=w1920-h1080" src="" alt="" />
+
+<div class="justified-gallery">
+{% include gallery.html gallery_id="day1" %}
 </div>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YAWnuhZgguo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Fej9Wr4gJjA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Tracelog: [xcontest](https://www.xcontest.org/world/en/flights/detail:mihai.m/11.10.2018/09:32)
 /
@@ -50,13 +237,9 @@ Tracelog: [xcontest](https://www.xcontest.org/world/en/flights/detail:mihai.m/11
 
 ## Day 2 - Golf course top landing, 360 camp
 This time, we went up with Kieron with a bit more appetite for exploration.
-<div class="pa-embed-player" style="width:100%; height:480px; display:none;"
-  data-link="https://photos.app.goo.gl/bd1KPnWjXreAZiXE9"
-  data-title="Bir day 2"
-  data-descrition="New photo · Album by Mihai Martalogu">
-  <img data-src="https://lh3.googleusercontent.com/BkTnmNSN8M6_IL-0JqkdyErUQHJZME-u1QXbD3JcRsJxm9IzcN5u3OeO7ORq9pV_mX8wDLw0v2kpRHa_9j5qXvCr1xf0FMYgqFi6T36uVI8bnpNzNkXHOEkzXDVx6TCTefFREdHh9w=w1920-h1080" src="" alt="" />
+<div class="justified-gallery">
+{% include gallery.html gallery_id="day2" %}
 </div>
-
 
 1h30 of flying, got up to 3100m, up to 5m/s thermals, and top landed at "Golf course", a flattish place on a ridge 5km from the takeoff.
 
@@ -73,12 +256,10 @@ Tracelog: [xcontest](https://www.xcontest.org/world/en/flights/detail:mihai.m/12
 ## Day 3 - Dharamshala
 Again with Kieron, the plan for the day was to fly to Dharamshala (the Dalai Lama's residence) and back. The day before, I had forgotten my gore-tex overmittens that I sometimes wear on top of my gloves, and my hands were a bit cold. This time, I remembered to bring them. However, even worse, I now forgot the other two layers of gloves! So I had to improvise, following a suggestion from Kieron:
 
-<div class="pa-embed-player" style="width:100%; height:480px; display:none;"
-  data-link="https://photos.app.goo.gl/MJNqtbFRjdFrwMeE8"
-  data-title="Bir day 3"
-  data-descrition="New photo · Album by Mihai Martalogu">
-  <img data-src="https://lh3.googleusercontent.com/DzekbNCYfwbbIW9mO24En63pFXx5_6PmusLKwJ3aHXfIZeZQzhj0seya4nay4a4APrv-y9OjXjEoOQjaBN0WjCqeF6YgmzDsBIg_zkl96a7YJIYxyV2A-lC7huQzNtVyF0hCsoDD6w=w1920-h1080" src="" alt="" />
+<div class="justified-gallery">
+{% include gallery.html gallery_id="day3" %}
 </div>
+
 (some socks might have been harmed in the production...)
 
 We flew together a little bit in the beginning, but then Kieron, better known for his Jenga skills than for his patience, went off on his own.
@@ -90,24 +271,9 @@ Tracelog: [xcontest](https://www.xcontest.org/world/en/flights/detail:mihai.m/13
 
 ## Day 4 - Camp 360 top landing
 This day, we flew to the east, and top landed at Camp 360. I took more pictures this day.
-<script src="https://www.publicalbum.org/js/pa-embed-player.min.js" async></script>
-<div class="pa-embed-player" style="width:100%; height:480px; display:none;"
-  data-link="https://photos.app.goo.gl/4SYMBuh68ftysLPMA"
-  data-title="Bir day 4"
-  data-descrition="13 new photos · Album by Mihai Martalogu">
-  <img data-src="https://lh3.googleusercontent.com/-Yq-BHy9_7ZxkKkHePklp998ibVIPzQ71uNZI0dA0HFbCMQh7uhyxMisTMgq8SurCxKxtiu7i-32XlWiITIfwTHPmGPQ-pD2zXx9-Pp1OO-8a4ULvlSpUdtCrKVLSS-xgzpuuSq5vQ=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/e0VJORhiGy2GT8SBDvAq5EdYkUl5x9gSBRexrjUhZp1UA9NuZSul3zhR4FfEL6Tqh9HwbjSzuvfQCZckhSPXbDKyI790NC8SYgOS4Bpdhl_SE0Vh_wxYHCYj4CCN0wVQ3271WSpAuA=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/0taeNszvnUuNB4k0d-Vwxb0VGWkIfKlCYLKIh2VzOSu52h1jowNGSIm3l703zsuqwsiy4v2YC_Vo9pNQrpBb35dC-Eis7zvyOJgJNNEVo4-kOGii2anPPmkYfrw40ciUtTZ3fD0YaQ=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/Jeejx_qFTkLgKMU32rfna_Ylq-SFH6xhZ3e_gmQnbvAvQ13O7OG8sn9hyatnxijuEPYF-SP-TUbS3DLhG-J0sMJFgrPUeUrIIUGXgQgWG3pS713xxDdwEtac1VnHmzoLPZIH06QjdA=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/Cdhjw4cFaIqA-wJBtX_9ype0gnm-aZCFVY-9LJ8xvpNiqTIDeDC_3A86nzTmVlI9zrKFkWSAIuUPl_lqGfDWbgivpBpSSMAvZEz5-aekwf8IMnFdsddXJEdi4HasmNyF4eCPPB9S9A=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/gFlfCzj6O4O0CfbOY1Ao0OBDqoGagMslJuqbt7e74mLzaZxhklS0EO9JU7WSDYQrai2N0MCOqXj-bzBsxIZm1UdG-bUjc1yE5THo59Lw8UnpxfGoXQf20s8dwa0L7Odkmv35-KgZ2Q=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/PRm8ZVqHXstZWn6-rXS4XqmbPOk2WDYjjhA42qNK7aQfctg7yt2lWyoIF09LK2XG0PMh--Zvw3Bx3d9lx6O76hW2SCJE7aizw36wby8w3oTzf7RrnmHWQoG62ylP2F2hdAIeFElTog=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/zAe8GkHsXCtx7oL2QiBUo9TCD5PxO1kRxwnIRAQZTT39hRBt2GPcRaY0_UkOWHEpP_txAZJ9ocgFqiavtpmRSRF-IprUXXVlpeDr12JMF1OyT03uYIDtpgdnQnkKvW-xO_hwMEU4og=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/wFfRUw1VK7zu3LwmsvhQ3KYr55Lm9IVvSgIi6Uhjs9GHknBZNmu6NUls9DDH7-MQtm90OMVoZv1j8E_QW-RJ9rp2NFB4LUIyV5ysnYBRrG6GBzvsNs7LJJS53XiB7e6rHGrYltwklw=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/HfxzwSY8BRMBFAPvZGyFpnq7QxbGeELktfkKtXJAQY4-f0_XbXCuVsLDhSdopg7Vcf0qhe2IWXUwdmyfATL0pcoknNT1rxo--JNkRtfjna8wU_QSkk7aFoH2kxSJH06AeHZNbus81A=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/VoUk2J6OOzF89RR0hbvc6Z-DQI1Be27-igANN3jp7CIvf_ymUbjgdode4i95s5km0R_2HNV0XNZExdwC7g7-NGT9SAxwTFSOK1zE6xom3UhOcUrl0O2Pu1vHl5Z5m98S_fezMUDwWA=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/oliApFwESRB_OCnuGmQgoPT22ITYLHZS3pNSS95Se0NhEFAvD-ZLAiqtd4I9xFb4VPkZy3oyo538UnKVY50vfYmuMxhSWtRCG291Q5aiWI6yI7YRPhiUgGtnhVBQYzU-sSHpSCF-UA=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/2Dakru8Ge1YsZM1EE6QxK8F-107CkMtZgtEuzce7K99YDr58PS3ir_aS7jUCd9SpfzgzCwg19IG6Al7z20j8oM0eP2q5QBdrZ9rbubpz7AGjKopr93Qe0JpxHMIMbQ1XI7v1bcuslw=w1920-h1080" src="" alt="" />
+
+<div class="justified-gallery">
+{% include gallery.html gallery_id="day4" %}
 </div>
 
 Tracelog: [xcontest](https://www.xcontest.org/world/en/flights/detail:mihai.m/14.10.2018/05:42)
@@ -124,26 +290,10 @@ Tracelog: [xcontest](https://www.xcontest.org/world/en/flights/detail:mihai.m/14
 Kieron didn't fly on this day, being busy preparing his equipment for his upcoming vol-biv course guided by Debu, a famous Indian pilot. I took my camping gear with me, and I adventured a bit outside of the main ridge, going a bit "over the back" into the higher mountains. After 2h of exploring the higher mountains, I came back to the main ridge and top landed at the golf course. To be noted that going over the back even for short distances without a satellite device (Spot, InReach) that is monitored by your emergency contacts, and camping/survival gear in your pack, is a bit irresponsible (I had both); there are few villages, and the mountains are big, snowy, and wild.
 
 It's definitely worth it though, if you have the skills and the commitment. The views of the snowy peaks were amazing, and I beat my personal altitude record, reaching 4600m!
-<div class="pa-embed-player" style="width:100%; height:480px; display:none;"
-  data-link="https://photos.app.goo.gl/MxzQtBriVJsnYWXR9"
-  data-title="Bir day 5"
-  data-descrition="11 new photos · Album by Mihai Martalogu">
-  <img data-src="https://lh3.googleusercontent.com/r4zw44H88V9CVkIshtiv3QQzOmwj1nDPz_EDkptCFFBCDmoBDXT6msz28K1WTTts87MteliU4JpVtREx_U5GvaRhb5SLdjQXWGIZK59PMXxjKlJLaSMnrKYEA5GDJYa66GRRNdMOrw=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/wP3Dr2Ripada6Ex_NadxfFQ4Ct3tdM6kwMnC-yaz9xyyPAXChsv3S5hzRP5Av_7S4SyRiWkOdZfGAGWzePBtnm0x9Z2UouIQGV795UMLnSHENOu6gRvzPjmpf6qYxgxaefavAfbDpw=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/iRgnymgy2MTddcHvKdPmDmDyIFHFqQq5W91JUcYhdrEj6lvJfCIu6Sa2-r0V2xj4uOLcbr2dPSyArA6Hc6wjUYB4v4mEmUP0WqnFNqgN2N7Hpf1ZWifL4ABop9K0QJhMXTlN6cLSmw=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/4hGX16jV53qQsD_9xUZm8D07is-eG03w3L7MJse4xC-DEUOCL2JktfcW8SO-BQ5DQIHVUGxLnZ_l0ljQLbMzHb0fVdze4BiS-9EudxKiyUDJ8h_65M0X0KkSBKc2s6x3hGmJgD03_g=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/ldO7_I9T3IrtcUcGYYR_In_VJ1MmP-C_rjZruKLnuqjXrA1i3TBF5G-JhSMONv4dtAezBf0Cde60jgX_xULqCUiLWJreeOhSip3Vv-83Il_iHJmiW9GASFdgC_DDli9g2bFN0dwX5Q=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/ew8YpZsddNcjYO1OBnD7zUF_Tt4b_M__-IvPvomhkJkCBLpT9yBi3rHecaIoVav5okvVRtBOuZccUIH3GPrOWqlEVpFR2uExgL0iRK6W-zSbZOWef2RPF7WRY8uPFY44trn-dEx6iQ=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/pBV5e1CSZvhTlpvIGvXfOErWGzZOo1zrKe0cZl5TLoqt5s5JAbEK9l__4IEBDJM_uURvURqElCyFDF5H0U5S-9P7w-yP9uRmKJ2XhRfNN4JDfbEHBHoSc6HcvChp-rM_LsHn1aIt8Q=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/YKJ-Pc7S0nwSthal4TeIpXZdaLGMZSs9tiHXXHLwJBR_MXjjiuS0Rjjt-UaEsCnjjcwLwCLTiHWK7cxWFKxQt9wxllmm5MfAiMf5-_vFJ5pIIpUBv2nr7NVFM8NZKAekIqZbnv6Rcw=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/YWxCLrdxCbmx0QVB9GNflcFzdn_L-_I-4Lp1FwJF908NYyKwFgMoQ-P6msE0w7W195uWXcLdcPtD5EOdOjfhs7dtHi6L3N5Ogff5U-mgt07KxK5kJL9CkaU9Nlf0t0HQ3HwWW2FukA=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/jC1ltmOV3OHOnL8LunDnl7uDrz8ujLhosoSC_he5GNJXzMDDSl-gWE21BEAqMXwpRHDoN2ZHgRxonLSw0FVV_NemZ0DhXAQVmC3GaIHJwlzs6nDqF1LsgI8bSqN5U2h_0Fl9LXJPlQ=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/MRXHxe_rPuqZtgM6LNj75wdFg8es-x0xVxK0MBTUf7a7stOSYUlBdShVgF6h5j54-X6zBE9sOvNrs1Z91lOjTjl3CRxvvaKmGOErtio7v5jInYm-JdGzbZVALMvc0ps5ZP3cei-ZzA=w1920-h1080" src="" alt="" />
-</div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lvKD2DhZT74" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GwIhEQGk5us" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5GvgTiNk6ag" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="justified-gallery">
+{% include gallery.html gallery_id="day5" %}
+</div>
 
 As I top landed, two nice local shepherds (with herds of sheep and goats) came to see me and invited me for chai, so once I set up my camp I went and joined them at their fire for the sunset. The chai was good but had a very strong taste of sheep's milk, acquired taste I think 😉 I then went to my tent and went ahead and slept for around 11 hours (it gets dark early...)
 
@@ -156,41 +306,8 @@ One of my best flights ever. Taking off from the golf course, I went again over 
 
 As I flew over Thamsar pass situated at 4650m, I noticed a line of moving shapes in the snow. I remember that my first thought was: "wow, they do ski touring in Himachal!", because it was very similar to a line of skiers cutting path through the fresh snow. Turns out, it was shepherds crossing the pass with their huge herds! An amazing sight, and I had mixed feelings of admiration and concern for them. When I looked it up on the internet in the evening, turns out a lot of shepherds got stuck on the other side of the pass (which they need to cross in this period of the year) because of the early and abundant snow this year. So what I have seen might have been some of the more brave (or desperate) ones that decided to cross anyway...
 
-<div class="pa-embed-player" style="width:100%; height:480px; display:none;"
-  data-link="https://photos.app.goo.gl/8gGbKNoN38ZULDkWA"
-  data-title="Bir day 6"
-  data-descrition="31 new photos · Album by Mihai Martalogu">
-  <img data-src="https://lh3.googleusercontent.com/2LOu7VeispDzByUWGSNWGzLdj_mtlr1rItbNQ9yjoHZ4dGUkQvf3Xg_nALRKAw5BmGb6iPrf6ux9gy-cxCQG-3TM26RSujnfw-N0-7QpDawv7u-p1Opn9CkSPV14fMPwreWQhWb04A=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/bsWerIxnB90FuBi7sUIUx4wTDQj_9O99MTQoSrI3QhsXbOSg8H9caca0tCaTC0nH1QSne8KuASlErX8Ot3SMJyxJpyNIK-I25D8pLmCv3E8IQx2t0-H1xS3UWELI-CBiJFCFXZ5z0g=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/sMIoa3sJJg4AGPmr4uFd84Tq4XlkXosyHYHdUwOw22t-cD3ievIwYroo2ZDgVlm2quAaxygqVVTajxN1r-2el3e5oTSRI53KMGAleD_A_CUSsd7faBx_t2HOv6QJJDnGs7dwhC7WqA=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/HOgAK4mWP8AdqX44GjbvPYQsFD6QnxT8cRW1mEDzczEw4Rfm1-n7L1JICyY_3KGKMStEajP3a_TBIoflKV2tCDIM1EbFP1FVXNE2R7hT18KvWB9iGSc1rbzxBbU2-pybGxQA4hPp_w=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/rv9E_s-ChPK1SuSASLSzHJTMVx32XMxueqQL-rdsgWyIK9TIQd-KCKo8qdR8wlNeJuwaeLSZzcfzjbJFBzf4nPGRTw7ZqD-EfRZueGtthoBgatiHd7iCsz8sT3hnOi_BHuBuXDaX6w=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/Afy5-C3YuC1Fx9PCofqKj9R6Yj3x60x38TkhUducxXfiDVhyGcV8XcoPXr0oH9GxJwKC-pl_H1rodb2Ye0kdl6qN6MdPLmdl7sKxwiNvfIgWrJXjpCBmWFkhAmoefm-R-n1jReODzw=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/qey00kfhoWmGwU6lOZGDpIhdBQkRh1PSe4ag-O61mDrsLX0HemQWzTtloOUZmhQF2mkeOMyC86gA3YcQFcJqAjEi9q0zxXMg_J7ViTitRGGMAidgfoVraWqPgC8KvkfoYsH2YZ5ZfQ=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/TitPF5J65nUGFLGMbYZtuuYmmLuaC0WHXU19_DTDZCW2Bilz5Uls2sJsg2iclwGGMOu0ptIxBDQGf_P0DQWOrEPdAJZXfhZ-_5W0u03EhakrCl2rkD_vUE-uJSqabRI6UwwsS3gYLg=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/3kBENKR86vfPy_4qFwO1UEM7PzUsM_NFk6FbEHUpUOUoiH0pkATwcdV5iZD6jJ8R_T7zOf8jZZm0UkdUyprKDQQfM2MPmU5CPTVqWOderItLtmN4Ws-NNyVq6bw6pbt4bmk0snxqmA=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/T6LWN6cGrVG3BoYBr1M3DUZJ_eEipdk04RgwEYxq0TJya9o_kTYE7Bt1qkTbsOYBg7nuNTsAjd0eKHlNaaB3OZF_kBN1gJehK-EjLWJXdxKxv6hRQxXarkWk2rNSLHLu64ZcufHNbQ=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/k0AxeYJCYwub9csJ02h06AmrRZ5_3gjqxxCGDh13U3yobiPexCiU_NyryQs9FXP0ky39zSF9HWCkINDuqueKH8J9NkdbovyZhqA6NZRHJkfypjdwoT0Qpy_ocuVWGi_0mw1Lj2oM0w=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/PuAVENn3aiHhMJhTAUZvKnfz-ST4VSj97x3WteT9TPqO4Ay1mhZHiziBBVgrVo-65M7pe8TNjgB6k_ux6bNUc4ij1dginbFtOuXqhxjtuDX6OFrRWnYA7-D1arHGh0Ng72zIAYPGyg=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/ZN79bSIgrpkDjDVam8H3ZolLaJs2woM7x5RwIU-UeVjj8LkavnTQv1e3iLHKismhPahqNRyJJnMNxsdGNYb3ZuV0GmlCn24QD45gOfNOquAyRz93h47bg1d1fhBsuI_y6xQOSruY8A=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/Gsi900l2F4xr11m-D9TwMpXc9PvhyzM46FVlISE2RqabevYriLsX3jV0WZ4ufg4sC3oSeuhtTvC9iX-dneHH6aVHQnn5JVAWFbu96ZA4AV506IxKyWW97G7W7DVPaexndFNeHv5qYA=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/iec_Omck2MhyEQAzLnvfbZXp7Jp2ERwBUDZHtg6DYSnxWt_utJ3bHdQQDk8F-GTjI4XwSAx6vOQnsY-RCCGYJzQOamFW9uCyswz3HoktUKkrsgFTVK476Xh-3gVavAf3xM37PyYhuA=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/RXki7SFmcdjmkzCAF2zej-yJ0mXQcIlbt3nKiJQiSlRVzWCvkidgNMJOA68Se5OO_7eyg83HSHIW9Proo9CZ38-UfgCzkTtDZwdMPUE5yvHuUt7p5s_y1boSm-m2oGI9b-b4FoEMLg=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/qm3x1wWM0mp3CdrG24zstGphf-oUnbVxnKiUnJp3Xz8djDKd7QvN5OHZmIexFDuDTH68Fqnbxqza__Nzdz-KEmleHbzbaSdWEoL5DPYLa8lzm4Ro5MtbZlpoFsLRcpybjZgXW24X-Q=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/AwZekNcGjdZ8FyMy58C7ranUKYK4ZmU2mXXsenLkoe0J7fkEj2-2FMjtCk_pNe3qqqdlad6DkO_lXt4lJFsu5SH6Pj3t1vdrvq8muHuLmfwaRnJDA_tKHvIunaCc6cbmJC6yzDeZBw=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/V8h1mNz_lrjf-SED_mmJdOZER05TLL5PmuXCpv2ZeYYFyBv8b8-Q9wPYitZ-QsZZ9jqjIXmQ75VILN7CZSF4BkhFFp5XBefjKE_p1bczT7b-ieQv6J8VZ_f1ec5qGhRSFPmb0gEOuQ=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/hMHPnYPjulI6YWrALIjAMfVvC9jZr5ZGjfMKzAzD5hy7H-SHWrmIhqR-L3vbWkzFz69j9XmJDLcpyJrHiUX7lOeUOstI_PmXiXxXfQCfBfz8WeRP-PEcSGYOeyel3PFAj24RSAGdUw=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/Hb2VJ5XykTDntN0L82wPVbCDfQEGJONg9MQCCHxjdRTi1s1NOOu3nr-nzBn5BAZFJVLC7d9g2ZZztb1lS6xfF-9OWRgCMy6Qz7H-x5yhpLB76JWLLg6qVfMY8k3wS1Prvwt-rPgPXg=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/t9Wyy_BzZop3XfxN8V557eYvMrDNbuKz0Vjc55P9JMI12Ft8YClMyIM862z9HjqQ9fVBiutoDrm5wQOtsteb_2hhftWnW6wziM-3FOQemiEWLgP35M-K4YsdFgc1fWtKGqlYurgz-w=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/ZQV2_prsg_ynQgey_80iWj-1cKSrx4Q6sJwZ00KOmxz3OvynquqDLDAp8OHbxodYO0snrmYHRWr_Mbjw8Nc-3qGzWXS-TYxseYgrCBhAd4rj19nrymqXxcn8UVLSwf3JtHoy636O-g=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/qLAvvvb2XDp4H1KqsXWAzpWHiTFzV1oe3Pl2mWgT2xfP5AV1ZKziGJtp6MUQqGTccYxUHmiKRo_XIdD2rdJouhQ5VjYPof4ywP4Bkff7mgzWWCqcxILfrtCTgftK_eA-I7K-qVnnGQ=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/yzY62JHAlQfxp9PxTh5lC1DO1tRyhaHkmzK-axfGTG9zXymTsWkSFOM2gAh1dgqKfTwysKowoqVI6YVu-wS3g7hEIqHbiGEfQsPTvbkvnaUMGdp7niUKrm49nC7oC5QWIb09snjI7w=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/lBADytCVT9MWJcupyRbmPEfrwY8trigOD3cBY9DTsmlyhlgZ2DNGK0boZg2d_zDRsPcRUJNGyC-ukVmf_yFUc1xFyo47hHe-zVupt_mAmzxKV_hU-I_pSQYmfpXkCRTIsXjmn2X_rQ=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/dQGCGcuwn2eJR72TtwX0j9bJhvo_f0uCK85VW3OE_4g71I4yj3HB0qaZEizGwAcjesr9U7BJyaWHwbHZdSTgWfkHo0NP8EYZf32zZ-WxTqVYn3utL8XR6giS5a4CY-wpVIZ9OjD1Og=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/LScmrsNc7IeCv9QeoGdFw1i3VitJx9Gkq5FhfK3grl4sam2haOrzqQfXcrN87R-6objYFzlODXKEW8Hxegu52wSkaXtGRyXmAY1kyF_7U2F1caYqW--7TWJ2JqmJ1LKsvuFrv50zNg=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/YhmW2t291d10jk4JW9iZjKaw94lQFfzXZprqWhd5Wp7V5rPg6Offzh0BanRfMd72epajABJziARdLTjX1sJaRp8_5k1JtDYHh5gPAws7bswMEMn6PcHPoC_NoBB9GlTpTr2XR2_2JQ=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/6u9qZjY8x8nR3fMuKUdou9O99ZM10z7y0OOs191ig1yTzcUrP9Jw-uZ9fH4nc-O8xdU-Jxjsc-ljIoPHs0eWTv3PbunM6BsdIDD6djYpYyJH6O41OJFRVv003ihVMyb0cn4YDKjgGw=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/kCL1cX1QGweJV8UA6KElX5-vE29h30K0GCQMwHt9Z1F_a2Y2i72O3BeIrtlWWPuncI7lSO5xb8IoePcND9vLHPPvjVUyYrXIjp7fnZx_md7gGXBiij8RaAGXcBsem4wV4I-UT42dGg=w1920-h1080" src="" alt="" />
+<div class="justified-gallery">
+{% include gallery.html gallery_id="day6" %}
 </div>
 
 I didn't spend a huge amount of time over the back, only about 1h20, because I was flying high and my hands were getting quite cold despite my regularly "centrifuging" them in order to keep them warm, and I was starting to get cold in the feet as well. Once back over the main ridge, I just flew around at a lower altitude for a while to enjoy the views and warm up and then simply went to land.
@@ -213,18 +330,8 @@ Tracelog: [xcontest](https://www.xcontest.org/world/en/flights/detail:mihai.m/18
 ## Day 9 - hike through the forest
 I took another day off flying, and went on a hike. There are some waterfalls on one of the creeks in the area, and I had the topo maps of Himachal downloaded to the Locus app, so I figured I'll just take the hiking path that goes up to the takeoff, and cut through the forest to get to the river and the waterfalls. I might have slightly overestimated my abilities and underestimated the difficulty 😅. I did end up finding a river, and it even had some waterfalls, it was pretty but not the one I had planned. And my decision of going down by the river to the valley ended up in defeat, after the 3rd 5 meter waterfall surrounded by steep terrain with dense vegetation and MONSTER stinging nettles (which also sting at least 10x as bad as the european ones!), I gave up and scrambled back up until the path, and walked it down until Bir. Going down was quite efficient, I crossed the same truck at least 3 times near the top and also at the bottom, when the path would intersect the road, the driver seemed impressed and was giving me the thumbs up every time (but I was not even running down, it's just that much shorter).
 
-<div class="pa-embed-player" style="width:100%; height:480px; display:none;"
-  data-link="https://photos.app.goo.gl/j5xMc5tXj9F3e6Vs6"
-  data-title="Bir day 9"
-  data-descrition="8 new photos · Album by Mihai Martalogu">
-  <img data-src="https://lh3.googleusercontent.com/ey73RF28U1e3sF5z6CjbAozEZIfpgMXJxsHsJKh4qS0Z-nNIG0j7fDDNmiiWzZoeRM1MqdzyxGP-khpJIprRIXjHvSZ3DYsj9v4rOZxBs9sSprXhbRFN5S1eaWKv-UGLzuhvcfiwsQ=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/kS2j1as7PUa6FsUrnlb9VBhlekkn6cUuEPznZ54PMIwxfAI-kXmksT9-K-N8ReAJTbHgCzOldNWm_oOd4fQV1eo5u1SIyWCmdod2LETY-suUVByTVp53VfJpQK6rL81Q6io7Di4LBQ=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/J2LBmB6J0rP6mGNbx3hIHP7wOKIpipUDC9JZNfTo2v_rQBDpRfdWHrLKHrSTV9cylXO5N-rk8OygmRv8C_4tpl07YRgLaMqnHEB7lLqurdVrsB6O8SuHpHSSvl2sv-qcv-pFdh9-RA=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/B1vY--cTQLjIHUvoN1anui8d4AOuYna8dp86Mz3i5Ge2gFZkxJjzRvZjtlmBKZ9pZzmPdglP_jjKCw5GI99GEr20sIUF_6_UCd7EHl59TiDxQopIyl58FcyzaxeBxuz_f8yUWmyqDg=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/FgZrTIlJykeU1UWW4S28-L0figdnpjjYOk2ExMgdI624-EC_QX3z6odYGMvnc0GYYPEENIrbkgkqW4xjNsCsxN9xYiHFxZWAb1cBViX4r_mLU-KoJqAI7bPlulieVDd0okbhORTTsQ=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/1HfdR6YG761956qOY1oATpRuperETWMRecnbNY4FIixKyUIuYAmglQcTwDi_ygNihNGPqfnaFLEYoJsoUdCAtoSFIq8T9ymwRmymsyvzMnmAL5p1CA7VoHYdZCE3IP-GwHm48qhj7A=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/to4AH9DaVic5y_eIFEkeY1I2Gj9WR0Tv4uBcRydvhCTHEJeM197gjaRBLtfs43I-XQSYRynlazL5IpGBnHXl3rnTYUPCS2WGQNh775ANRGGrWctfJRKOGUjVkhMO720m30yZLcJ75w=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/sd65pKnUXNX_j9Uvj4WxweWAle4j1Y-BLJWmkYdDESOEACYPryuRsZId1daxRdccO7Mrfa5f4wPsuuQ7M_RcxuM5CDPrEKxW-W5Wv3Z8C_eJDz2ncF-KLIhbRz-tUDSMcNWXcyvqSQ=w1920-h1080" src="" alt="" />
+<div class="justified-gallery">
+{% include gallery.html gallery_id="day9" %}
 </div>
 
 
@@ -233,21 +340,9 @@ Wanted to camp towards Dharamshala, near a peak called Triund. But once I got th
 
 On my way to 360 camp, where I initially planned to stay, I noticed two tents being set up at a nice spot on the ridge, just around 5km from the official takeoff. I did fly until 360, but then came back and joined them for the night. They turned out to be 2 nice guys from Australia/New Zealand, and we had a good evening.
 
-<div class="pa-embed-player" style="width:100%; height:480px; display:none;"
-  data-link="https://photos.app.goo.gl/iEx1hBraEatcnveKA"
-  data-title="Bir day 10"
-  data-descrition="9 new photos · Album by Mihai Martalogu">
-  <img data-src="https://lh3.googleusercontent.com/ZPpWVvfcQV02o5HyO4N2Eb8xrSe853h_fMKU66CQwIN4i9kOgTwfGldgoOitWPNMCEyiL1VlNpI4Anp0zmYopzCE_PsJDqEPwy57eHAQmc6ImiCodN0SU67p95WLHMJ5oZjtooJXRA=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/KThP0FtG6H7JmAkwfO0br-xP5GKd90cnwiLiPyn-3aRddC01Ea2SD-pIbsVbkJ0iiO-AcWWblYnKerQQsozqqGOIbk9fswZN1y0SaiG_N22b7iEEbhcBDLiTrAYUKVvDykvQKAFZRg=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/QA5wlwAlsK--lULagkXNelYacVQacKeaYKfneeR4FM9NOtT-uE2KR_wgQw51utrpfFow2RtZ4ig42n0vmTMvtAnUyVOBZxxfYUZ9EOGuC3x3hz1pAp1sYX6LDOqIK_ZVNDfrQzd9pg=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/NlyPcXHoaENSVP2ivLkEOje2je6qrrSY560Zk9lt6HoD4X9lBrYdNdEJJA0scWsxjNe_DXomdogTfzBpR1tyS7gJaE6ZWrSo5__Ua8XwA13UCU0GlxA3gwVkXoixn6n1H-G5_4tdtw=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/KeWGmnu8obPNhx0a6ED7CYch4l2neVDY18aKjzauBTW4Uhz3hNDAp2xTBJrdTKZ-alpuiEkCSbF5LfcEZ7CU9NnBKO6I0tp785vRzR6uDFeP10m7u1pde7O5sK3G9XqTD8nTKNuvdQ=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/04XT2s6T4DoFj7c_-DRV6eKAgSd5Noa9l5Uc1COtEWvZQoYVLM_LT2REk5Ic1KDabldXmEcbeP55tKe2v4eGAcOJbdrKJduwS59CT6rySfopT5qIKWJkKx8YOVwmp9PtrKeNPwl7Hw=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/JVuIeV0tdGzUzt2nfAWbMLwzQsOWqh35XxsuK2pyVzn9LbJ9GtM0Sf4pOYP4yHDNgzJ_9kDSWho9WpV5NS2gTB5rsnSAABdxcM3M1Ajm4u3Gw3muIGg6JNYefhZLy_6vkuYlJx48Ew=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/Ccc-xVjqGuY6hrEV9_vNUFGOa9PstIP-ddu0Jn1wwDUSOIkjuVnhmpm4x1AJTJcMO05T3lnxUodnMBOG2SeyUPtKc4wsb9QgMxhUye0z_0tow_9D1lcuXx9tsDaLZPYbwR8xKpZDgA=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/lX3BKoPcHEqn98o4U9S99udNHT4TliK9kdrM4kMujtDvJyo11TkEm4jUFFrTxTwFEZXBVdUEKcYfvxtMOClnoVimiaKYbbkaBx2U0Q43pTT2MISmV-PrvaT7bm0S7LqiN2jcSasf3A=w1920-h1080" src="" alt="" />
+<div class="justified-gallery">
+{% include gallery.html gallery_id="day10" %}
 </div>
-
 
 
 Tracelog: [xcontest](https://www.xcontest.org/world/en/flights/detail:mihai.m/20.10.2018/06:29)
@@ -257,21 +352,8 @@ Tracelog: [xcontest](https://www.xcontest.org/world/en/flights/detail:mihai.m/20
 ## Day 11 - Back to Bir
 I was supposed to meet up with Eliya and fly together, but as we didn't have radio contact, we managed to miss each other. After about 1h of waiting, and with clouds becoming a bit menacing towards the west, I gave up and just went to landing.
 
-<div class="pa-embed-player" style="width:100%; height:480px; display:none;"
-  data-link="https://photos.app.goo.gl/MVNXsWD7AaXUo6vN8"
-  data-title="Bir day 11"
-  data-descrition="11 new photos · Album by Mihai Martalogu">
-  <img data-src="https://lh3.googleusercontent.com/cedGwOAvLa_P1BiLTxOwcJGPMvauTaqKA20-xvzd4nRwUoJVCSP10h5TIir8L7WPrFwo6jVPgtgVlovrKvwGShXa4quS4bk1_yKTFAlOeQ-ZGqQ0Iq7AzKSfPtqh5iMtm6BZfhQ6vg=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/zQPEF7u9iFvGTz21ZzUpxYEFY2id9wzF-fjk2WjlbgiecCrAOKcFlpETRujAEZQM1PKwlnOpmPshZ45GoZ5-IRfj34xTvKim1cuULoUIhivGXxFW8RZSMUFVgaqZnRF_j_dpslXZ7Q=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/_KWvS4DVaLBwAia0NjBmTbzHCcaEjjLSJeDG-ZRCFysuWb5IonDRKXqu_NLatxZMT9a-Y1OXxzGQVOeoeFRgnaPEPgwbYMOyFv_w3GizXWO9U1p9ldV_2njyPXfMVEy_6XUenbjOsQ=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/6Qv0GvTGhVg2sAK-vcWijyvdljIX9Ed9pxxlQu2IhwxX146wH8QSCa3ycWUF7ryc_Px-JspPIKgCS4PTn_YtmNFIe9I5ILVjTXDx_AXOuQEni38jrPtHAGL3aCrU7Ssgrb3TnS7J7A=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/GuGm7q9v0iHXTUVnft9JxBJ2wQ-tDZnw7nkBNeRNIBLRwB-SNJUZBC55r2h6HE_00ZdgTZPvg1DTFyWRuqBXaDd0OnmFHKoiimJN5DtmfiNFE5oU_y4v4lXBI9jQUgYzowbmHHL94w=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/EvgnYB4FfAxtXopN9zjAPCbRjb4yVriU4rt4zio9_earwnTJlgd64J-ypwSwu0sRhGVqZ70C2TFkZpDozThMOgbZKgtjApImqEI-n4z5ZB48PIofZ8AmpeQ5T9dI76PHxGXaMxkXVw=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/-UNcUKerfi_hFV_ruEbKSzwk_Q8TaMq3TJG8qTUXma0iM6o5dcm70bNGnyXtw_iW1rXVP_eqIbCz7BS7GxqQU4HikMk4LpcBhFrTLHTiYU91H6eNlmLiw_ww1oXQH5vEViwTqfsyuQ=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/68oSmLQV-EgTtgp__a3Um6Ufx5UJZLPsix8zupBJqNKWPWRqQ5dsHSXI28_7-soPhiipul49VaBNty-FJtqXgqDEpLF_TwfNqv9DLdED3Gkbn5SYY7xs2V1RV5DMKVGgRUZZiDA0Yg=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/Kryd-8By-liVFN3rliMAxG0M5wRRSI2hwD3YV7HZoNRe7ewzf6HnOkIOL3RSK8MnjdRLsZgY53tUGYgwIo4A5in2zXAgKOtKkTxXmHE3Xw8G2f5ILqCbUlNh0P1QnU4KMuTlftsyCQ=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/HBMuUZ0UUKv8O0W4NoTVkxbnHkxqr18qZfCQGRGluDWz1EyZx82Py2N9VYhRCAEUxKhTtrpya25k2H447NMhctzJVIpgn8S0TlL8c1vhapf-a1vxh6xi1MPZV9iTxxHm7xFw50FwkQ=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/Z1HnB1L2eIjmKUQT1d8R15O58oDMM-ml_4jWKou_R7_AuO1I25m8SCa1yZY1ud2SqSXFM9q2Qv4DkF064_gsXXJiTxnnLSzKc4agCjFIXi7fHjW1nYhQ6d5Oteh2gJd5V34uA9wW4w=w1920-h1080" src="" alt="" />
+<div class="justified-gallery">
+{% include gallery.html gallery_id="day11" %}
 </div>
 
 
@@ -282,58 +364,8 @@ Tracelog: [xcontest](https://www.xcontest.org/world/en/flights/detail:mihai.m/21
 ## Day 12 - Camping in the back
 I went to fly a bit over the back again, the cloudbase was not high enough to go too far, but I did end up reaching the shoulder of a mountain that a nice guy told me about when I top landed at 360 a few days back. I saw some nice lakes and smooth landing options on that shoulder, so I decided to spend the night there. But it was still early, and I had enough height, so I explored a bit further along that ridge before turning back. When I was coming back, I saw 3 pilots top-landing pretty much where I wanted to, so I just joined them. Turns out one of them was Mike, the same guy I met at 360 the other day that told me about the place. They top landed because one of their friends had been trekking in the area for a couple of days with a group, and they were planning to camp at this spot, so they wanted to surprise him. I ended up spending a great evening with Mike, his brother Mani, Jim (all big names in the Himalayan paragliding world!) and their trekking friends. I'll let the pictures speak for themselves, the place is magic.
 
-<div class="pa-embed-player" style="width:100%; height:480px; display:none;"
-  data-link="https://photos.app.goo.gl/UvhUmsC6bKZ433TX8"
-  data-title="Bir day 12"
-  data-descrition="48 new photos · Album by Mihai Martalogu">
-  <img data-src="https://lh3.googleusercontent.com/qC729Xz2JlaGqaCKrvuEuRxB4yCgsHvN4MC_EJZyP4vdwhf5JSC2qA3UqLx89VQO2vTt0unfmk7RIe14g8Ns_giE47XT6_rhuHCp7e_fmsGFXnAVkqczx9v_9d_6CjYnRBm7WZofmQ=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/92CEDeT4PgZxGvSyA4Qbf-3GfNYa132TWe18HaDYJtWJJSfr-ZOpTICRW-gUCpF-VNDQO0BxAlAPmRZAmPZsqFATtmW6Bd-bhYAVYL5A50SDBr_xOtn9GWlDtqYGRzNwy7tGrxfr1A=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/-J9BB5lUJweUN7RmZAsBWtllJPYUr5JyymWDpNd40nFcTvKNOvgnwjAQ9jXBR6-Umck5bjC7bDHTzYBUoSCmQS47xPFnv7QpXbuH8C-D2Nz_hhXauYjuspbxIvApaLSm4RlbPTVv5A=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/5EZ74CYEc7hWP7Y9_oKhBXkgsXjBkerct8hxFjR2jn1_og60JAvL1_aWGiPXmzGJ2je0Z-K6y0WusHzAWXSl98zTmIrDnEXGmol_ZcQ2VkG2IjFdHdmublY9mFc0GTUuRPJ_Rufdig=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/g7IEnwPuTw-ALtGGzF75PhghwGiA5-grw5Qv5zLtUhY0dZt9rQkkuuruJ6YFRJf3PecHQvTkTetrsLKhbmO0jtbuCiz4D5XZ_R7nsvVRXuPIPF1o0hTOa8zRPKJMQxtUon8a-FUPSQ=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/CDHh95dkW9wNBjX7BNJUnrDwm3Y5rQAEpZGJ5w3qNNRlLZZnAPnom-uLK64QX6ETzFszkROV2l43L4hFRsADZYQMBL_im6MPJcTjuJ0hnCcwvc_luOaUPNpQVKHmrIN7-Wwl8cClJhB7irMDA5ZZCnJf246EdT5pej8RrG8bSyVPRkefDWm_r_myEvRanUuxOeqr06uq9-jOMxoLKa1888giqzD_avwYzAaOpyg_sLi8DqGyHHw_HMy_bxmEQobBSKSLoPrSbDG8L2QhuWzQu1zNGK5YCqRVoLPMbiUWiQ81aDFTrH_wsuw7qq6JXawXd4E7mEot9F12rrm9JVeoNBaiMsWQGsCQvSeKB-qORajrRkBAh-huVdbAEJcWiU6OXzRhz7kZcg7af7lHUbc2cK-l9oKCG2TuBb2fosubnRPf6NlIUd1vJghr25yc20w6eM8FTTL4S531zrPT2EGlGvCjWJAhQ9AozCi67twZJjAFFs4IZCie7WNkiA2bLrJAFK7SLpkYmwnlnsochadHRAJL2v_6GbW9Dus60FCkV-lNGZ0PUeGBgydcmdF_oMXes8_5bQYuQwpshyaMkTXsMJrfnFA51O79gYKZGpcFvwkImceu6UKY5f772CR1fT7SebmAIK5xq6650fZ0GGxJTILx8fMJoC_DvimKqJAKQFCmwEYE2xRNCLLhrDUPKZximT2emsZy1m0Hj2UTrQ=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/L9d3u1bAN5whFfKGaD51k1AgbEmCmDnkL-c9dBqugFlkzshWfXA1H1Kmp9DFVADN6BBNaxgwaJp21t9uCaMwttnJWVdisc5SnWIOJrxYpNuJpoDjTKM8BVMkpVufjQGHejHuC-ESjA=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/lXTjhxKFoLeGFFmA3DiptWDTcQdD5sWrbcUubT-ZXRPNypz8KhrXyDSGjOg-vaAVhe1MrHPhB-H545FvPsoh9aMllHsKswTxIClZb3tUpVDjpQcYN1hPL_nj8I7wZ-8-ggE4FbcVjw=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/JZ_0wnKDhShDj4PGH2_pqZm3n4tAuBfqAHJe3_1jC1y0GuCYFrEBZQkCDGHLosUzM8rmhywpBFXJoIxiyQSglxgRO2NQ8oG7lwSghuVXxff_yJX8oqyOht1g6RheFl-cr8TRTwT6ig=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/0ZwzICR_JPF4firO2h-_pZdjClT60QFYgqVqLsy7NxuEW4mV3JC-C7-iAzVdfZIpCsZQbBGhWOYKCCSQ-Zv_7n1Yq_JKXn8EC3Ez-c-bYlxzih6bYk5dwYvK3ArxTbNqo04XJn8WXA=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/SRNWbAdcYQ58k1aZ0__lgTkYQfY5kD2phRRFR1ThdXdsqATGtt8dD69NOoFGcXWHGo4Mt8gO41yte1iHcP0F-OU23PBCuKtZfFk7vckGxMPr0N86DS2gOIdA0Dp2ygBYC3rnriGltw=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/y4KbtxmACCu6X8NtuToQLtD8NQZzhLbEK1MRHF83sPfOpfupXWOOT3NDEL3CFdPOHid7ExYuJ_eknW3v1ZQFNMT3nUMH_GH-K1HzjXrBezkBDmKpDlaLLC0jK3WTcnwSgTXLMXLHUw=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/fbgbsIS2rZ_k01iZnA7A9UnDJylLu0j7IdEoNe7PWkMELZjdXsr7TfqMIfF-JEJlqYd-wgIlPZeS5qnNw630drmeCxmamV850Wq3BpvD9GQMayWwi5FDfbcmNFJ6_Av7w6Y8DEn9jA=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/YEnZ_RxhlDxuXcsxiD7odqvmOXwBr_mwXMGWvoukAG5doxR1FroJ3d1mRnSvQ94vX2F_GsaG3QSz_pAvF2RrqfptL2i00I6p5nhf_L8KbXPOrDSpiq_-kHxd-QWLr87KwutFHi3soQ=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/sglGWA9b2IEFZuxdi8HcTfOW7yJkddngUwtDLOsrZ4LOgFcSO2ETjDDvdjv0XOkBTbuZddL0rysSHw2CHkP158X67zSbpa90fFyt1kgiMtBXrn3loxvxBi2V2X6KM8gGbMJC_aD2OA=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/COuoBOIfUF0nrNH9xQzk8QkZ-pxMojdwR_r-Qid4EE3KRfkSq9eoKkynivqNquv-A5V_bxdjyrqfZ04oYsRRamIdfo2yrwpW38A5DOV8eHYcnwFH5RGgu62d74QLaGSgWKVCjoRlvA=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/qoQ_0UT2i5iuWtZAGlxosfg-4DIuXQScFYW6Ih6zlbui9qZldRBMM6jAhfbHjyQGhcCtTSEtsjIfo-ImNvuxPSesOmf2mrigbolXXhJsX2Ej7kZE8fDYCtvl1lwBf2OxdvbDJaBJYg=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/dMZhjzrfuz-yqW7d2jTtC9EdA83pAJEJrUWXyJiruCdKbx6JY0-lTRg2PElHMyKYyK4cEurl-GhpnJjfkqw9VwAlmul-8SfJU50nVHgZmZPb32yV4_wuATaaCPQonN2AQC8Dlor2ww=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/O2VFva3Gu06fp9EOUp38Xtgv02IrtiqWyEzdSNpxQPmnwd1t9q9Nir49O_9xD1xK5PPGBD0q9JxqvEEfAHeqKA6Jy0rg_qYzFTkt1sWOb_cgNjqIIOEDBy7VqPfGqrLXKhexZws2IA=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/9fu0V51x00dkhQDIZN4Mpafa7VKwE7UfOY0RLMEZgiw2zk0k_Th-wojoNQsTEZ-9HKxLAZiUGIQ3OuNP0AIdZouZNC60-r-89oZvijRD0muMexTRLG-np6rDIAJtxtvblV9F85sQ2A=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/lE939Xia-DJGZZf9FSM7lisPvXYkJ31qfEtlZG-Q8M4-Zl3AtCJUmMRrCwwAdPkOouZLo3uGnS2t5CptoNr3z7m-3eLpgBrYkNgwXN93zenp8zvSsb2MMrASJOvo-526NFAdVn8-OA=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/95j8e1-G9izRyhgw8ziLIR4g_oMd9_saz0Vhef_NBEOK4AQ7U3kSgP84GGxt__GmvWNS8OHIcyqmghGShmaGIH_hClYJdBCEcstNpAoK8AbwyTSXe0QE5ACUjRi-8lJI_9tPUB8mHQ=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/MEK090n2sTxW6JkM2wI2YCWVfHrIeKeNXGXrUhjupsAPqawcOD4vhy1SvXvolR_F40mpUzAL32b42hsxxWXewB2qyaKP5gJJgQm0wtW5R0-LUIJ01ugueasP-Go62rZz9VucIdnu0g=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/TRaEELzSL3Bm3-SSRbHcSAxzs1n8BIYCXG8rIb8ZZtbTtOetWVz8F-ufoXcw69rI5btbAXGsjQcVckfSjpzKU8ySaoMD7gFvtADCExcLXQRGrDLuYE5UqtPcP28x90Vczo3zUem7rA=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/3KEXtq-rm1sTBK5WmvK5qhGruvpVSPbRb-c_4Tf2n9IgtvA32qz3_rdKp7f-EgVTKSambRlwzOJa8HlNqFubxB-1eYeatVk_LwJiArTm-cAn7Zw-nUhjHThvgFwiQ7oAGhxB_Ep1XQ=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/OHCaH2wfRb3bSSnPsrX6v1iFwQp48wKtzWvvvGKU-Ez8_m0_gUKactDCDc4L_68D-CVdeGQmW-LU9EdlJdgN9ZODuwrOr97iOzSZruQ2O1nbFhYufm01E4XA74nNuEQJrqm9DcbwSQ=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/2f7xqe7rf2zCTPJAzmbXt-1VrMDcHlpnLFnRRzke1f-4_iHmkeJURLutXBOI-59WRLn2hCKOJ2WdWvULjp-yHA5znERpbEYqZuJXn3UJjVHbzDxRmdFgiGUivUhIgNKHpBFRmKRoyA=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/TZn61nidDvVkol3yv1R--BTUBWLnh-WqaAJcwZUxRMVozY2-iqrxJkQoFudsw09-DWE_jfSVHi0yMFn2htaYMIGnZsCx4cMVFtDE8OJ9aUiRHAQk0viuwvwMarHzOl2acM3yum84IQ=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/d2JXXNr12kTfjF5FwXMoFBePbIqSxro6wFsrujWecV6K_5nPUtNPTz7Ww2fUYk-330i3BP8LKxq-ZhLgBNhDK9zh4pEvWfBvPs5_EMYFulcVh6-gh0C2imzOwVAroYVrXK4VITjr9g=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/gUze2vpNgdjOtR1sVVpns5YH8BzL4cTJOQA8lyEUcLnq6dD71RKBW1pIey463i14EY86ljA-VJfkKqIsbfDtQwFqXEckXhB1_6x4CecR--P_m-CJW2a277P1ZOJS58FnbqvHQY-ZNw=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/LSJX5SdBrJZs_i0912xqDb_DWLpS5TckhkF816V6GbZy8Su__VYjqpyOHsRXxrNHN0zAaQ_GkTjPrPcR9XyE5i4EGkquZ1ibKh3HCSzXZPvpKBz9snQAVpR0IYFRrLoxbc-fYZEjIw=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/-ZqxEf7vwemnaesQzmUSmYCTMQQ9qH0Ar_4DyFOTCUbHrT3hF9KmMy6CQtl7chJkV9gft4E70L8BBnmlOxaF7C4AvKan0BN8mG8EteEcanN69PFRgWE9vz1lCi5KJDotB5A5jd7cZA=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/FZVrcxKwI5-kRFQThGyxmvPE4r-ePZ0JrLC9WetiP-hA1dOZC6SEd5Oqme-pdS1HseBheasD6g-3wYY6FgZRKcZTajm8sxR4jdztY3QVrqZ6EBQf7Pn6AGWt7nEG-eqE3tbmh6_xXA=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/vGc1p8A5sCrBqzkF5DoEAqjJ31ruAZ17HEsKQ-kvN57pY5GIwxXjPen31ZTXE3OG2U7LOsHGgLm9XJgeAnNyRy3Sx8L7df6x0tKEA96dDu4G8NbztuqcFgK2g9yHp2VmbBiyHM3GhQ=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/4Ui_YND2vr0Ouc-19f1McE-8ko-sWcbjhlKTlS11AV4Iimb_6HNm8u16jmgxvG2ODb--rm4OEpONyfxDNmVbrqSFf_Dbv8YX9i3VbioiKmVT4rpkOXu3lmJtU2iBTozibgkWJiCMHA=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/6dgUXSTOL_bQrwTGZh7jL8gmj2aW9aTC4JGxeaXdAFuRFrbPtJEKljbMwonOhr2rqYL8xw9yHZzjSKc3LW5szgFpzp-y0ePNuLkaSz7Yf7bzS3MDchpDIXTQGc2aOr4zMNw0Li9FiQ=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/wl6EKxFHVmJsnEI1BDLZQdBM4Ie-T-NfqqvCZ64-45L7nd-tfx6NEO-D6W9TYwYxuleiw16KMitEmjDulqy3WKiNqbbjBFTaVvmaal48Zrty6t8pvjUgznDcLjFeypVl1Zs_jDDXJg=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/8brpXAbuPX3_x9EpCobcwCmuyhhBaROsW-bqNQ8GulOO5oP0rI7zGDBqKbnwDySwO8zcTm-GqOabBXjpwk_jKS5LQ7vVf18d1V8es8zPLkZDmx_Pc3Ux_zQ_WeE9a2MAWypjxSEJ-w=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/f2LDP-dFxoTnGPYjaXlIYY7WDFvrqZHzXY160KjuNeLqlbhW6fE_xUq2hkr4lwHMkMYkO6coT6jgTbqMLIvERMBwGMuYY_UI9NJowId-MdeFfgUSGZgtvKN1UZoYvVwpfH8vXuQM_Q=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/z3kzcznM6IiWea7qD1skZMTTt2osm3i1GGW1AFwRtaNdjmG6rqNQvCotTSgcI1HyIPHlSFei7ucOGpBfY2LJgP06Fa_QfqbiKYLaJi_2v7wxJBkC6EIETtQ3_JXCZER7o3doKoXbJQ=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/0s92M-ftGb5KrNjiBNUxHc1v4lsWKt1ehkzuVT1czFQFVpo-eDv8ODGg_FpUiDN9Dgd0myV--1igDLiAhNRzxF762FAiaMZ3k8Qs-rccejWX7WYaB6h05PPdROktgYfdHMg2F0PVKw=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/0chFV3kTWTHr-czQrurVZqfL9hk1hCKxXeycc08bQHWQqKa_-UvabVkdzXG51WdcBvVx9SwO3dtEhrrbHv2yLTGJzdIUMqw2n4k2txWdCDgex6UUE8tYocQ14YpopiFu74pjTaH6gA=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/CjrbsKRb8NdhAR8kx1EDEjI2oViGyWegurGE3JAucfawMud_dxz1SqqPw-NxC4wT8KISg-hLhCdE74pG_VP9tPH1wE6NqT2XF1REWQsXCcmcwhS7u5rpx7g73Dz_Kdrv0FNDE-QcGg=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/CHDUQ47KXpOlbBbnMl7sBvPhq9QR1-WdH03V4e5b-4-Sp8W8ECgLF5fDFejufO4OGULQYShSU9srhRMI-CiCuv3dT2LJmYTDggggTnKPOkJPeOA9I4yGx8CwmiTxvAgR2xRmN7nIog=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/s2kgZQbHTFcZG_Nf_uNPJn0tXw5judloy8NuvkPuzwzoysKPAJxjykgjyUv7oQbSMovBSW5Xh6G2jHv8iKFhsZ342obatGIpFPk1gbG73uvLb77i9mbMp_f1aPxn-NqRqYxCHd4QbA=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/6JsoF--8A__r50_wnzDTWu1xHc5G3ddrmy8tcBygsdGdwMHoZoh6GPl2aiu2mM1ibng4XPME2rZd_uzoaP9mAFzimD4KJ4HIB9rpFRApZgAvGTCv-7Rgflpnex2X1SC_Hetms5sEfw=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/cDgC1-SPXD6jWflEkApHAFSSyYFWPHfCNd2nNmaEJd8jnIh4iVhNohQRxFfNLyG9200cGVGQeydkFju1u4jYMa6KgcllOjMFK5CfmKV69_qeaJIfAJAcb4NRKylvLed2pfi6QGIglA=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/46H2rm_8posNnrli5qPmlO0tig82oDzSQcx4syxZE1lglaEznlQ4wU1jiWqnEA7uArMGUq3ZXmNOZ5zEyBq19wgZXxoW-iVzCkJsqo2ysB7mkuIEWy71WgIsu56j6QwyJaPUt0I1yQ=w1920-h1080" src="" alt="" />
+<div class="justified-gallery">
+{% include gallery.html gallery_id="day12" %}
 </div>
 
 
@@ -345,28 +377,8 @@ Tracelog: [xcontest](https://www.xcontest.org/world/en/flights/detail:mihai.m/22
 ## Day 13 - Big conditions
 In the morning, everything was frosted, beautiful landscape. After breakfast, we were quite relaxed, taking our time to chat and slowly prepare our packs. We did notice the small cumulus clouds popping out already at 7h50, which is always a bad sign (highly unstable), but we didn't really act on the observation. Then in basically half an hour, the weather went from innocent isolated cumulus clouds to widespread dark cloudbase, and already snow dropping in the valley just behind us! We didn't lose much time in preparing our wings and taking off (and in all honesty, we left it for too late and it was already a bit risky). The other guys went ahead, two of them staying to fly in the high mountains, and one going to the front ridge. I was a bit slow to climb out, and by the time I got high, it was already snowing on our camping spot. I didn't linger too long in the area, I moved across to the next mountain which had less menacing weather. There I climbed up, and at 3900m started gliding towards to the front ridge. But somehow I got on a very sinky line, and realized quite late that I wasn't going to make it over the ridge. Then instead of turning back immediately anyway, I decided to try to find a lee-side thermal to get me just high enough to cross; that turned out to be a big mistake (bad judgment because of my lack of experience!). The thermals were nasty, as that day the south wind was much stronger than usual, and I got ejected by one and caught in a nasty rotor where I got a big frontal collapse. The collapse was quite difficult to recover from because the glider was in strong rotor and downdraft. It's not at all the same behavior as in an SIV course in calm air! I eventually did manage to recover it, but with not a lot of height to spare above the trees, I had to quickly escape to the other side of the valley. There I found much safer conditions to climb out, even though I still had to walk a fine line between the very weak climbs under the edge of the clouds, and the strong ones in the darker areas where it was snowing. I eventually got high enough, and did the crossing again (this time from 3900m, and on a much better line), passed the ridge with plenty of margin, and went to landing.
 
-<script src="https://www.publicalbum.org/js/pa-embed-player.min.js" async></script>
-<div class="pa-embed-player" style="width:100%; height:480px; display:none;"
-  data-link="https://photos.app.goo.gl/fLguNruEwQy3CEuz6"
-  data-title="Bir day 13"
-  data-descrition="17 new photos · Album by Mihai Martalogu">
-  <img data-src="https://lh3.googleusercontent.com/aOId3AEivImGA1HAKh9ypIm-oQVTnlW6RDGh7iX5wAZ6VtIdCKHo77UJ3pPPX8FaXUzOdpJMdH2jebh03fSMtvYyHuLDQoB4r862_COEYeBFR25phETquFPc321wrRzVn6HZSuuIpQ=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/kLjcfUSAx1gjV2n-5elLzq8qkkcapryUV84r3Pw2S_vUAHdYbognECDrr7kiYGGxPuggIzEVnnefrMB6EP0i77x4lm4DXiIc06Vyl3bA70k1A88Tz5sXAAPEVXXXCnm36PxzoQuwqA=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/-SE2c3XjqvWkMB-nn5Hn9gwkzqDRHPPQ5TfEAfRwfoohmIlxRkLd6OcJLBO4iu7T4eLZgMvibOduxkaD2CEx62ZqjbGU7jEyfCyUOquLH3u9GqFpGeIbH_iti00eP1yQAHUM9ivqJA=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/PAaIx-O0ElXTy5DsyM3LwFDWwuKX2OPmHIwr25hFSXQC27hbtknn9jAhMDCeuFD0BttPo9LKEsOHaeXacAXHo82a6bVrsAbDt-PKHwY7M0YP2_OKOba_ZvrkSKjlRm3gIJ0tJ7oNcA=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/0XeHhVsOGoBNfX5TT8mDVxLQUcTxbVyiFYxTmLMtpKE-s9lWOUWdyzkTG47rzOFWeylGnFAchuZCpMYeEOaMSbWl-UU6ZcN6NQO6pXWDkMhE1tnkDj0w5fFDa_L6_jBfESxQe24DPQ=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/1r3bUVMEAWDE-vL_IkSoA38HAAuOg7C82pPNxnsjmIhYY-Ve6QfHo9IjEJk68_8yn8N9LRgYblvnUaTRrFZH4_7hf90NzuZQWxzoVitknedGq51K4BfpXKqq-_9Sr0_dZ3moR6sPBQ=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/vpH4MviC9ZhltxMtYGoZiVuqGzszJUrM9i_oNS8bxjeMDkqdPp1IDXfle7e2TGgi2W1tGZu6Abs8kfh2aSHZyAOqXRgaMjoJZ5QH21HPXHYDcrkAZdBEXhPl2et9uhGFNpRm-UwESg=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/15CUNKAZNIIcDyedHW9kTR8fk6hEgBsLaCpV6_Sqnj8AN2bmGvPXqWfGFmoNybxmV9Q27xCmiK7DZTH9A07O_fMsZLed-XoK_nEzCCBcvEYRVabknmfmD___nNV7K1hIDxoUJF_EjA=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/CbdcTsRwCY4OQqk1IpHETBnn-jduOhS-bCHT9p-g3Ky77UXcifDRd2D3urocwAjdyWKa4MaXqkG5YZEDYizgpyd1ZtgfyVowrv4ID3y5aEV-ODrGWdItaJZqJwR7M0uvZiDmY446rg=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/upgQQaLtZ70HEoz5JQ878MzHZNuvkQfFOK0_wd1b4l6UVfqv9fefvkNupW_aja4p-2I4E_XJPxZQ33r9HO8zyQDutlDuEotAa9vf-anL10sOXF_CSU241foDskd8p--kRfoJqikO1w=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/EOzwITw1d3AOwsxh2HGPOVYtalDz3FhBeSL4nKuk6wKBYci0iom0gU-en-EhJUAzi5OSyNvkLODZck12D0oqY3gl7sYBCcTihg2UM-TDLONJ7ZJ08UIqBMZZZAPw362Bw0FqODXHeA=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/LJKmO9kzHzCoAqHJBYBowrNJmFxTlZBtZCV6ERe-t3wn510OLW7hDVlnFgeGecBQ6FifaBYlFI4Pyyr5v594Q6RsW1AxN7IQoqbDeb_8CFVfDvMNdzgqKCOFSlBfChgpOQE12Urt3Q=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/V4PtvYhXFOck03yApBUJInCYBUdtFt1svDjFHxnjauRis_PkFyPvft6KFkTPK6pt3xUqvSFMrOAFaqU3NCnLilM897JtpyaqfnnsCzWlJrhp-MT0qjMPNi2K7Xpx5SmrMjezgOYnvg=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/xBzxMBxs3TutfVsJWjjzfJSJHiifffDsqT95P-AqWpnB33_0og6fBZgNWmFJmgWAFTTkPP25AU74KlmghiVGho4sTxfJHlL7vpatkRsk_Xm9Qfy2BMOrpxfnK0xY_6N9JsbB_rMe-Q=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/015b1WMu9xXs8CIWAjUZeBapXPJ1Br8VLdLWlHAiyHqeaU5DXaj5nj0tM76vu3clFUJ9mWECB3fNRF03LPP3rtNZAZo8bhRNYuWLc5lEaTxVMWkGXyeDReoMkQg3DFrIr_zICNOcoA=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/9-m5G5fh7IJKCW84vJipGMTlJD9dc_9d81uvd6QzjZRHT2g2ICHyW54_xddZbufXbOaIoSL4VkZ5fFmVxQtLs_Hmo9mKoFah4V5h5wOuDX4y_R2xo2gbYTBEIupbpHNtbRfIiC6odg=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/SCcvwKl2lVTxCNh7NQ-f2H1RMWPPwqLDYPZ4PzbknnN4A49vv9yYP43AP_ESb7WEbMJ4pTXjbuqQcTdnBoNcfrmvme6vtHpx6VPvul-jNlqBxAU-vCoX_1nTg0RftYRPlKd4CdGLRQ=w1920-h1080" src="" alt="" />
+<div class="justified-gallery">
+{% include gallery.html gallery_id="day13" %}
 </div>
 
 Tracelog: [xcontest](https://www.xcontest.org/world/en/flights/detail:mihai.m/23.10.2018/05:07)
@@ -386,16 +398,8 @@ At 360, we met Jim (the same guy I met at the high camp in the back), and Eddie 
 
 We had a great evening at Roshan's place, and set up the tent on flat ground nearby. On the 10 minute walk from the landing, I met a woman with her small girl, and I was surprised to hear them talk hungarian, my mother tongue. Well, the real surprise came later, when it turned out that her husband, who also top landed there a bit earlier, is from the very same small town in Romania as I am!
 
-<div class="pa-embed-player" style="width:100%; height:480px; display:none;"
-  data-link="https://photos.app.goo.gl/GbtpwrXyzXzV1JR36"
-  data-title="Bir day 17"
-  data-descrition="6 new photos · Album by Mihai Martalogu">
-  <img data-src="https://lh3.googleusercontent.com/eLOouHZLLE62diQ7qIvWbdWEhHPvwZgWOkopmCiV5RClWp4PsfnYIr0boozBLDVHGxUm0Be4yxJEUqgoE-nKsUtlW728YSnccRUvkQC8WXvxKvc02pQeAwSHIKqaz4yuDWekFAnJEg=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/FDp5QSwB1fn9zgnge2Rliuzb2Pi_ufnTRRTKoAdzYPQAxB0_dWVUQwOv9LcEbyLJNB2V0OpgYQ0TNW2sMentS4V-PUdsnr6I4qZm8UVyN4qhcOWYrfMxyzB94LBhf50g0kOy4h40ag=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/3G_mkOI9s7-BhimKHd-CgP_gUsaBTdi61STu1Mh5P4aO_-UUytortmv-L6uIeKXEXYt4XaVMLEU83skajTIif5CEXvvqfk3W9Z83r8geCA48JGKYvR4yUGwusxT5YfrPCeYzAJY2pA=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/pJns92QTcQdYlHAifdYeKCraqt6yYcvEHaU5hGJNVJ84ccJbpC3_Sy_MjCB_NUf02RsGKZUtmgiUDIVA6XrXvkUTc8sEckI8iuTLyv8RWUYeYW9v7pGhRuaJJ4RMO4uuxmpWTpbgNA=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/BpyV32sughbydS7B5G-dFI_1FFXI2dU6n0OYjqB6qXzMwZDLTaq8wZ8Sq5cslyZt2qd4CIzt0SWcpjIOIG-AvKFlND7G1adCrxCXw0KEJSdhd-I75B2R3Q0tl6ycj6ocTWGtq2_c6Q=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/SyKpO9UDNIpg22X-LvXZ1nNE0cA25qeCKDRalTtfxgDdWuRSG7gqVqdN9nLNoCMlRjmb5UEIWH45EkyTyrqImDne3Z_jZH27cmN_-Oi5hOM4QMocTyRQ1rbEg5sA0BFZHJW4ne8Q6A=w1920-h1080" src="" alt="" />
+<div class="justified-gallery">
+{% include gallery.html gallery_id="day17" %}
 </div>
 
 
@@ -408,15 +412,9 @@ The conditions were stable with a strong inversion, impossible to climb high, so
 
 It was a very nice vol-biv trip to wrap up my stay in Bir, before taking the bus to Delhi together with Kieron the next day.
 
-<div class="pa-embed-player" style="width:100%; height:480px; display:none;"
-  data-link="https://photos.app.goo.gl/KZCy8w4K5stUAgTA8"
-  data-title="Bir day 18"
-  data-descrition="3 new photos · Album by Mihai Martalogu">
-  <img data-src="https://lh3.googleusercontent.com/Yo4O1eZCfCGk2wBjq7j9lQ_tZZxAUnqxRIn1jpnvRD58uYj_A404mXH9VmvC43g3XhfjHCsD3GLHJ-GUtncOJHFPxH4tJfDBCuED4NVITDbYvlkpQI1RovQPMGtz5Y-Q8OadulSbAg=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/pDX1nuUi7FQE03XTvf4a-C9gx8rJRtQM-mWYM7wvl_JvpLrKZneNy9oAEPfL8ROi0y-1YhLEAUmVCIWEpT864W-kLkr9n0etkJHCsK69eAzibx67kJT3GU3bLvdE4A1ssAQtqgas_w=w1920-h1080" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/iRZy2wOtHh12DGPcB1QaChm3iDi2vwetU0YENwxsk8NzFZOE1XY8aTv77VT_itnSQX_jW1ntnVAyeit1QvsdY1CWqUOdOfectw2XPz48DlIePu0STOquIazGGc420mTjipk6Sl2ajQ=w1920-h1080" src="" alt="" />
+<div class="justified-gallery">
+{% include gallery.html gallery_id="day18" %}
 </div>
-
 
 Tracelog: [xcontest](https://www.xcontest.org/world/en/flights/detail:mihai.m/28.10.2018/06:04)
 /

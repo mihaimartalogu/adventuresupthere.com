@@ -1,0 +1,15 @@
+{% for picture in page.galleries[include.gallery_id].pictures %}
+    {% if picture.youtube_hash %}
+        <a href="https://www.youtube.com/embed/{{picture.youtube_hash}}" data-lightbox="{{include.gallery_id}}" title="{{video.caption}}">
+            <img src="https://img.youtube.com/vi/{{picture.youtube_hash}}/mqdefault.jpg" />
+            <div class="gallery-logo-overlay">
+                <img src="/assets/images/play-button.png">
+            </div>
+        </a>
+    {% else %}
+        {% capture picture_url %}/assets/images/{{picture.url}}{% endcapture %}
+        <a href="{{picture_url}}" data-lightbox="{{include.gallery_id}}" title="{{picture.caption}}">
+            {% cloudinary {{picture_url}} %}
+        </a>
+    {% endif %}
+{% endfor %}
