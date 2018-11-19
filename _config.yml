@@ -45,6 +45,7 @@ plugins:
 cloudinary:
   cloud_name: adventuresupthere
   only_prod: true
+  origin_url: https://adventuresupthere.com
   presets:
     default:
       min_width: 320
