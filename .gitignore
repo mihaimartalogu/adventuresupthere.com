@@ -1,4 +1,4 @@
-_site
+# _site	-> because of cloudinary plugin, we need to push this
 .sass-cache
 .jekyll-metadata
 assets/images-full/
