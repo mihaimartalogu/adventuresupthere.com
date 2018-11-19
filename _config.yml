@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   and the outdoors in general. This is the place where I publish
   from time to time my adventures up in the mountains or in the skies.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://adventuresupthere.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: ""
 # github_username:  ""
 
