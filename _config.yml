@@ -16,9 +16,9 @@
 title: Adventures Up There
 email: mihai@adventuresupthere.com
 description: >- # this means to ignore newlines until "baseurl:"
-  My name is Mihai, I'm passionate about mountains, paragliding,
-  and the outdoors in general. This is the place where I publish
-  from time to time my adventures up in the mountains or in the skies.
+  I'm Mihai, passionate about mountains, paragliding,
+  and the outdoors in general. These are my small adventures
+  up in the mountains or in the sky.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://adventuresupthere.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: ""
