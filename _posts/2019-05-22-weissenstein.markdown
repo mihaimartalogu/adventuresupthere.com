@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  "Vol-biv Weissenstein-Frutigen - 22-23 November 2019"
-# date:   2018-11-27 02:00:00 +0530
+title:  "Vol-biv Weissenstein-Frutigen - 22-23 May 2019"
 categories: paragliding
 galleries:
   day1-lausanne:
