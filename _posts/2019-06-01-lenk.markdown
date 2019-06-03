@@ -6,7 +6,9 @@ galleries:
   day1-hike:
     pictures:
       - url: "photo_2019-06-01_22-35-23.jpg"
+        caption: "(photo by Jean-Phi)" 
       - url: "photo_2019-06-01_22-34-52.jpg"
+        caption: "(photo by Jean-Phi)" 
       - url: "IMG_20190601_114154.jpg"
       - url: "IMG_20190601_120959.jpg"
   day1-flight:
